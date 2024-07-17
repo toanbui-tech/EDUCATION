@@ -10,3 +10,9 @@
 
 - *Chính trị cũng diễn tiến với 1 khuôn mẫu như vậy*
 
+
+- 1 danh sách dài các định nghĩa cho translate và các menu, được hình thành như thế nào?
+vì tôi đang gặp tình trạng, làm tới đâu thì thêm tới đó, tôi thấy như vậy sẽ không tối ưu cho hệ thống sau này
+- Khi bắt đầu code bất kì 1 module mới nào, tôi có thói quen muốn đưa nó thành dạng base để dùng chung cho những chỗ khác,
+mặc dù tôi còn không biết thứ tôi đang làm có thật sự sẽ mở rộng về sau không?
+
