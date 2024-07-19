@@ -1,0 +1,1 @@
+![book](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcba05c59-8949-4114-a17d-3f7f8d482a67_7176x4464.png)
