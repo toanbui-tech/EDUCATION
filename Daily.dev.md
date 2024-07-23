@@ -17,3 +17,5 @@ Sau đó là những người khác. Hoặc là họ thiếu kinh nghiệm hoặ
 Họ thường cần các lập trình viên cấp cao và/hoặc trưởng nhóm để giám sát những gì họ đang làm.
 Hoặc có thể họ được giao những nhiệm vụ dễ dàng hơn.
 ```
+# Type 4:
+https://creatoreconomy.so/p/40-life-lessons-i-know-at-40-i-wish-i-knew-at-20?ref=dailydev
