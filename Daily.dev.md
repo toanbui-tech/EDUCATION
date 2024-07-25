@@ -21,3 +21,8 @@ Hoặc có thể họ được giao những nhiệm vụ dễ dàng hơn.
 https://creatoreconomy.so/p/40-life-lessons-i-know-at-40-i-wish-i-knew-at-20?ref=dailydev
 
 # Type 5:
+```
+Learning by immersion works naturalistically when the material has a low enough complexity relative to your prior knowledge
+that you can successfully process it on the fly, and when natural participation routinely reinforces everything important,
+so that you build fluency. When those conditions aren’t satisfied—which is most of the time—you’ll need some support.
+```
