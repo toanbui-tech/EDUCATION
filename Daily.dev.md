@@ -44,3 +44,5 @@ That creates more cues for recall and more opportunities for reinforcement.
 And if you’re in some setting where you need that knowledge every single day,
 you’ll find that your memory becomes reliable pretty quickly.
 ```
+# Type 9:
+- App: Đất, bán cầu, bọc bằng kính, người trong đó, thảo luận, suy nghĩ, sinh sống, chỉ 1 bán cầu
