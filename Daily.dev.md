@@ -36,3 +36,11 @@ That’s what low-pass filters manipulate.”
 But I think there’s a huge amount of value in shared canonical artifacts—in any given field,
 there are key texts that everyone can refer to, and they form common ground for the culture. 
 ```
+# Type 8:
+```
+There are some easier cases.
+If you’re learning something new in a domain you know well, each new fact connects to lots of prior knowledge.
+That creates more cues for recall and more opportunities for reinforcement.
+And if you’re in some setting where you need that knowledge every single day,
+you’ll find that your memory becomes reliable pretty quickly.
+```
