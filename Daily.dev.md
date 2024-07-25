@@ -26,3 +26,7 @@ Learning by immersion works naturalistically when the material has a low enough 
 that you can successfully process it on the fly, and when natural participation routinely reinforces everything important,
 so that you build fluency. When those conditions aren’t satisfied—which is most of the time—you’ll need some support.
 ```
+# Type 6:
+```
+“This section will help you understand how to think of signals in terms of frequency spectra. That’s what low-pass filters manipulate.”
+```
