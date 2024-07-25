@@ -45,4 +45,10 @@ And if you’re in some setting where you need that knowledge every single day,
 you’ll find that your memory becomes reliable pretty quickly.
 ```
 # Type 9:
-- App: Đất, bán cầu, bọc bằng kính, người trong đó, thảo luận, suy nghĩ, sinh sống, chỉ 1 bán cầu
+- App: Đất, bán cầu, bọc bằng kính, người trong đó, thảo luận, suy nghĩ, sinh sống, chỉ 1 bán cầu, tất cả mọi người phải vào đây.
+# Type 10:
+```
+Hiểu rằng các tầng lớp xã hội khác nhau có những quan niệm khác nhau về cách thế giới vận hành.
+Tôi lớn lên thuộc tầng lớp lao động, cổ xanh. Chúng tôi làm việc trong ngành công nghiệp cổ trắng. Vì xuất thân của mình nên tôi nghĩ nếu chăm chỉ, làm tốt công việc thì mình sẽ thăng tiến. Điều đó đúng với bố tôi, người đã thăng tiến từ vị trí quản lý nhà máy lên vị trí kiểm soát chất lượng, quản lý chất lượng và cuối cùng là giám đốc nhà máy. Nhưng trong thế giới cổ trắng, vấn đề quan trọng hơn nhiều là các mối quan hệ và quyền lực hơn là công việc của bạn. Tôi vẫn còn vật lộn với bài học này. Tôi vẫn muốn nó liên quan đến công việc của tôi. Nhưng phải đến khi xây dựng được các mối quan hệ và quyền lực, tôi mới có thể đạt đến cấp độ Giám đốc. Nếu tôi muốn đạt được cấp VP, tôi thậm chí còn có nhiều việc phải làm ở đó.
+```
+
