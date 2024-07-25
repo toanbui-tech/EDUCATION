@@ -28,5 +28,11 @@ so that you build fluency. When those conditions aren’t satisfied—which is m
 ```
 # Type 6:
 ```
-“This section will help you understand how to think of signals in terms of frequency spectra. That’s what low-pass filters manipulate.”
+“This section will help you understand how to think of signals in terms of frequency spectra.
+That’s what low-pass filters manipulate.”
+```
+# Type 7:
+```
+But I think there’s a huge amount of value in shared canonical artifacts—in any given field,
+there are key texts that everyone can refer to, and they form common ground for the culture. 
 ```
