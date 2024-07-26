@@ -68,3 +68,10 @@ Ngay cả một chương trình cấp bằng CS thực sự chỉ là một tậ
 Không có kinh nghiệm đạt được
 ```
 ***Solution: Tham gia kiến trúc phần mềm và liên tục rút kinh nghiệm sau những lần thiết kế thử, thiết kế thất bại***
+# Type 12:
+```
+One important criteria for good software design is, that it is future proof. Since technology changes fast, the separation of technology and application logic is important. It is a specialization of the separation of concern principal. During decomposition you have to keep an eye on the dependencies on technologies. If a component depends on a particular technology it should be encapsulated in a way that allows you to define pure application logic components. Replacing a technology should not cross package boundaries
+
+Example:
+if we store log messages in a database, the service must not be named “ILogDatabase” since it provides information about the technology used. Instead, name the service “ILogRepository” or “ILogServer” and add a sub package “logDatabase” which implements the connection to the DBMS. You can verify that your architecture fulfills this principal by asking the question “What do I need to change if I store the log data in an XML file in future?”. The answer should be “only this one particular technology depend package” and definitely no public interface.
+```
