@@ -59,4 +59,12 @@ Tôi vẫn còn vật lộn với bài học này. Tôi vẫn muốn nó liên q
 Nhưng phải đến khi xây dựng được các mối quan hệ và quyền lực, tôi mới có thể đạt đến cấp độ Giám đốc.
 Nếu tôi muốn đạt được cấp VP, tôi thậm chí còn có nhiều việc phải làm ở đó.
 ```
-
+# Type 11:
+***What are the key skills that someone designing software systems should have?***
+```
+Thiết kế hệ thống phần mềm không phải là về một bộ kỹ năng cụ thể - đó là kinh nghiệm giải quyết các vấn đề thực sự quan trọng
+Bạn không có được trải nghiệm đó từ các chương trình đào tạo về mã, video trên youtube hoặc “lớp học” lập trình tự học.
+Ngay cả một chương trình cấp bằng CS thực sự chỉ là một tập hợp các khóa học lịch sử về cách những người khác trước đây giải quyết các vấn đề phổ biến.
+Không có kinh nghiệm đạt được
+```
+***Solution: Tham gia kiến trúc phần mềm và liên tục rút kinh nghiệm sau những lần thiết kế thử, thiết kế thất bại***
