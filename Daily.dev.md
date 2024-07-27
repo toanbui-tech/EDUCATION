@@ -75,3 +75,7 @@ One important criteria for good software design is, that it is future proof. Sin
 Example:
 if we store log messages in a database, the service must not be named “ILogDatabase” since it provides information about the technology used. Instead, name the service “ILogRepository” or “ILogServer” and add a sub package “logDatabase” which implements the connection to the DBMS. You can verify that your architecture fulfills this principal by asking the question “What do I need to change if I store the log data in an XML file in future?”. The answer should be “only this one particular technology depend package” and definitely no public interface.
 ```
+# Type 13:
+```
+Become the go-to engineer in your organization
+```
