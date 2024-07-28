@@ -84,7 +84,7 @@ Become the go-to engineer in your organization
 ```
 Nhảy việc liên tục là một công thức để mãi mãi mắc kẹt ở cấp độ L5 (cấp cao) hoặc thấp hơn.
 ```
-#Type 15:
+# Type 15:
 ```
 Là nhà phát triển, chúng tôi rất quan tâm đến các công cụ và quy trình của mình.
 Vì vậy, chúng ta nên luôn tìm kiếm những quy trình không cần thiết và loại bỏ chúng.
@@ -107,4 +107,20 @@ Nó cũng phá vỡ một đặc tính thực sự quan trọng mà mọi ngư�
 - Các cam kết cục bộ trên nhánh PR của bạn không cần phải hoạt động - trên thực tế, chúng thường bị hỏng.
 - Ngoài ra, GitHub nên ngừng hiển thị các cam kết cục bộ trên nhánh PR hoặc làm cho việc tìm kiếm trở nên khó khăn hơn.
 Đó chỉ là tiếng ồn mà không ai quan tâm
+```
+# Type 16:
+*Đây là kinh nghiệm tuyển dụng của 1 Tech Lead*
+```
+Tôi nhớ mình đã ngồi vào bàn họp để đưa ra quyết định cuối cùng và
+hơi ngạc nhiên khi nhận ra rằng kỹ năng chuyên môn của từng ứng viên được thảo luận rất ít.
+Một phần là do họ là những ứng viên mới vào nghề
+nên người ta cho rằng kỹ năng kỹ thuật của họ sẽ
+không được phát triển và đây không phải là trọng tâm chính
+của cuộc thảo luận.
+
+Tuy nhiên, ngay cả đối với những vị trí tuyển dụng cao cấp hơn,
+đặc biệt là các vị trí cấp cao, điều quan trọng là phải xem xét các kỹ năng như giao tiếp,
+tài liệu, khả năng thích ứng, tính chủ động và các kỹ năng khác thường được đề cập.
+Những kỹ năng mềm này là nền tảng và có thể quyết định sự thành công của vai trò này,
+bên cạnh các kỹ năng kỹ thuật.
 ```
