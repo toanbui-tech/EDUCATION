@@ -79,3 +79,8 @@ if we store log messages in a database, the service must not be named “ILogDat
 ```
 Become the go-to engineer in your organization
 ```
+# Type 14:
+![image](https://www.jointaro.com/blog/content/images/2024/06/Session-1.png)
+```
+Nhảy việc liên tục là một công thức để mãi mãi mắc kẹt ở cấp độ L5 (cấp cao) hoặc thấp hơn.
+```
