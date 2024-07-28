@@ -84,3 +84,27 @@ Become the go-to engineer in your organization
 ```
 Nhảy việc liên tục là một công thức để mãi mãi mắc kẹt ở cấp độ L5 (cấp cao) hoặc thấp hơn.
 ```
+#Type 15:
+```
+Là nhà phát triển, chúng tôi rất quan tâm đến các công cụ và quy trình của mình.
+Vì vậy, chúng ta nên luôn tìm kiếm những quy trình không cần thiết và loại bỏ chúng.
+Tại Trunk, chúng tôi đã định cấu hình thiết lập Git của mình để không "enforce the arbitrary commit message required rule".
+Điều này giúp chúng tôi tiết kiệm rất nhiều thời gian và chúng tôi đặc biệt khuyến khích mọi người cũng làm như vậy.
+
+Với một nguồn sự thật duy nhất, phổ biến, lịch sử cam kết yêu cầu kéo của chúng tôi trở nên vô dụng.
+Không ai quan tâm đến những gì chúng tôi đã viết trong thông điệp cam kết của mình, liệu chúng có tốt hay không.
+Ngày nay, ngữ cảnh bổ sung được chia sẻ qua email, Slack hoặc tài liệu.
+Khi chúng ta phát triển, chúng ta nên xác định nhiều cách hơn để cải thiện quy trình làm việc của mình và giảm thiểu chi phí tinh thần.
+
+Trong GitHub, sẽ khó thực hiện bất kỳ điều gì khác ngoài việc hợp nhất các PR vào một nhánh chính —
+sử dụng PR Tiêu đề và Mô tả làm thông báo cam kết mặc định.
+Có một số lượng lớn các công ty mà chúng tôi nói chuyện về việc hợp nhất nhưng không sáp nhập chỉ vì họ không biết rõ hơn.
+Sự phình to cực độ tích tụ là điều tồi tệ.
+“Điểm lưu cục bộ” của mọi người sẽ làm ô nhiễm lịch sử chi nhánh chính của bạn mãi mãi.
+
+Nó cũng phá vỡ một đặc tính thực sự quan trọng mà mọi người nên phấn đấu:
+- Mọi cam kết về "main" phải có hiệu quả.
+- Các cam kết cục bộ trên nhánh PR của bạn không cần phải hoạt động - trên thực tế, chúng thường bị hỏng.
+- Ngoài ra, GitHub nên ngừng hiển thị các cam kết cục bộ trên nhánh PR hoặc làm cho việc tìm kiếm trở nên khó khăn hơn.
+Đó chỉ là tiếng ồn mà không ai quan tâm
+```
