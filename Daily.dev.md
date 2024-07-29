@@ -124,3 +124,13 @@ tài liệu, khả năng thích ứng, tính chủ động và các kỹ năng k
 Những kỹ năng mềm này là nền tảng và có thể quyết định sự thành công của vai trò này,
 bên cạnh các kỹ năng kỹ thuật.
 ```
+# Type 17:
+![Dr Milan Milanović](https://milan.milanovic.org/authors/admin/avatar_hu6b2bc098fba5feccb4c6beb4e8cc5482_90406_250x250_fill_q90_lanczos_center.jpg) ***- Dr Milan Milanović -***
+```
+Trong khi việc ghi lại kiến ​​thức thường là một hoạt động thụ động thì việc chia sẻ lại là một hoạt động tích cực hơn.
+Kèm cặp ngụ ý có một người hướng dẫn sẽ truyền đạt kiến ​​thức của mình cho người được cố vấn.
+Kèm cặp là một kỹ thuật mạnh mẽ để chia sẻ kiến ​​thức, được chứng minh là hiệu quả nhất,
+vì vậy nó rất quan trọng, đặc biệt đối với các nhà phát triển cấp dưới để tìm một người cố vấn khi bắt đầu dự án.
+Người cố vấn sẽ giúp các thành viên mới làm quen với dự án,
+đồng thời đánh giá mã và giới thiệu cho họ các loại kiến ​​thức ẩn giấu khác nhau trong mã nguồn dự án.
+```
