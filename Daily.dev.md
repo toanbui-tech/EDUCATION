@@ -134,3 +134,6 @@ vì vậy nó rất quan trọng, đặc biệt đối với các nhà phát tri
 Người cố vấn sẽ giúp các thành viên mới làm quen với dự án,
 đồng thời đánh giá mã và giới thiệu cho họ các loại kiến ​​thức ẩn giấu khác nhau trong mã nguồn dự án.
 ```
+# Type 18:
+***- Profile Social You Need -***
+![Profile Social Links](https://res.cloudinary.com/daily-now/image/upload/s--94i2emXu--/f_auto/v1722252861/posts/7MoC0mdaQ)
