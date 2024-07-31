@@ -143,4 +143,10 @@ Người cố vấn sẽ giúp các thành viên mới làm quen với dự án,
 ```
 To have a fulfilling career:
 Follow your curiosity, push yourself to do hard things, and learn from failures.
+
+Thành công không chỉ là sự nghiệp của bạn.
+Đừng ràng buộc giá trị bản thân của bạn với một chức danh hay tên công ty hoa mỹ.
+Xếp chồng các thông tin xác thực là một sự theo đuổi vô hồn.
+Hàng năm, tôi xếp hạng những gì quan trọng nhất trong cuộc đời mình—ngăn xếp của năm nay: sức khỏe, gia đình, sự nghiệp, bạn bè và sở thích.
+Cuộc sống luôn năng động - sở thích và ưu tiên của bạn sẽ thay đổi theo thời gian và điều đó hoàn toàn bình thường!
 ```
