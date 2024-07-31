@@ -137,3 +137,10 @@ Người cố vấn sẽ giúp các thành viên mới làm quen với dự án,
 # Type 18:
 ***- Profile Social You Need -***
 ![Profile Social Links](https://res.cloudinary.com/daily-now/image/upload/s--94i2emXu--/f_auto/v1722252861/posts/7MoC0mdaQ)
+# Type 19:
+![Peter Yang](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46680948-d2cb-4f7a-b2d2-c7e29b52b783_1280x720.png)
+***- Peter Yang -***
+```
+To have a fulfilling career:
+Follow your curiosity, push yourself to do hard things, and learn from failures.
+```
