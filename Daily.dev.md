@@ -150,3 +150,18 @@ Xếp chồng các thông tin xác thực là một sự theo đuổi vô hồn.
 Hàng năm, tôi xếp hạng những gì quan trọng nhất trong cuộc đời mình—ngăn xếp của năm nay: sức khỏe, gia đình, sự nghiệp, bạn bè và sở thích.
 Cuộc sống luôn năng động - sở thích và ưu tiên của bạn sẽ thay đổi theo thời gian và điều đó hoàn toàn bình thường!
 ```
+# Type 20:
+```
+Hầu hết các chương trình đều là hệ thống phức tạp;
+do đó có sự phản kháng đối với kỹ thuật.
+Chỉ cần chạy nó và chúng ta sẽ thấy.
+Tuy nhiên, tất cả chúng đều chứa đựng những vấn đề tuyến tính đơn giản
+mà nếu được giải quyết sẽ là lối tắt để hiểu liệu chúng có hợp lý để xây dựng hay không.
+Một chi phí rất nhỏ có thể giúp bạn tiết kiệm được nhiều tháng làm việc.
+
+Những vấn đề tuyến tính đó thường là một trong ba vấn đề:
+Time: Nó sẽ chạy trong 10 mili giây hay 10 ngày? Đây là lĩnh vực phức tạp về thuật toán, tốc độ ánh sáng và độ trễ.
+Space: Cần bao nhiêu bộ nhớ hoặc đĩa? Đây là vùng đất của mã hóa, nén và cấu trúc dữ liệu.
+Money: Và cuối cùng, tôi có đủ khả năng chi trả không? Chào mừng bạn đến với đầm lầy tối ưu hóa, lạm dụng đám mây và tại sao cuối cùng tôi lại phải sống dưới một cây cầu.
+```
+***Và tất nhiên, cả ba đều có liên quan. Bạn thường có thể đánh đổi thời gian và không gian cho nhau, và tiền thường có thể mua được cả hai thứ đó.***
