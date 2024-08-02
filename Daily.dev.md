@@ -165,3 +165,5 @@ Space: Cần bao nhiêu bộ nhớ hoặc đĩa? Đây là vùng đất của m�
 Money: Và cuối cùng, tôi có đủ khả năng chi trả không? Chào mừng bạn đến với đầm lầy tối ưu hóa, lạm dụng đám mây và tại sao cuối cùng tôi lại phải sống dưới một cây cầu.
 ```
 ***Và tất nhiên, cả ba đều có liên quan. Bạn thường có thể đánh đổi thời gian và không gian cho nhau, và tiền thường có thể mua được cả hai thứ đó.***
+# Type 21:
+*** - Gần như chúng ta không thể hiểu được ý nghĩa của việc trở thành một con người. -***
