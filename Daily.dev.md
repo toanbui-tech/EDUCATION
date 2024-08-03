@@ -173,3 +173,9 @@ Giao tiếp là thứ kỳ lạ cho phép các nhóm xuất sắc làm việc c�
 các cặp vợ chồng sống sót qua những thời điểm tồi tệ nhất và những người khác
 không hoàn toàn phát điên khi thế giới quay lưng lại với họ
 ```
+# Type 23:
+```
+Trong khi các phương pháp, thước đo và công cụ cung cấp một cấu trúc cần thiết
+thì bản chất thực sự của khả năng lãnh đạo thường nằm ở nghệ thuật hướng dẫn
+và truyền cảm hứng cho một nhóm.
+```
