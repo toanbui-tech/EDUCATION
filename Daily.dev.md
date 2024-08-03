@@ -167,3 +167,9 @@ Money: Và cuối cùng, tôi có đủ khả năng chi trả không? Chào mừ
 ***Và tất nhiên, cả ba đều có liên quan. Bạn thường có thể đánh đổi thời gian và không gian cho nhau, và tiền thường có thể mua được cả hai thứ đó.***
 # Type 21:
 ***Sau những nỗ lực trong hàng ngàn năm lịch sử. Gần như chúng ta không thể hiểu được ý nghĩa của việc trở thành một con người***
+# T ype 22:
+```
+Giao tiếp là thứ kỳ lạ cho phép các nhóm xuất sắc làm việc cùng nhau một cách hiệu quả,
+các cặp vợ chồng sống sót qua những thời điểm tồi tệ nhất và những người khác
+không hoàn toàn phát điên khi thế giới quay lưng lại với họ
+```
