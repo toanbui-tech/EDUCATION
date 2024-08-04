@@ -185,3 +185,12 @@ và truyền cảm hứng cho một nhóm.
 Khi ghi chép, bạn không chỉ đảm bảo rằng mình không bỏ sót điều gì mà còn đảm bảo rằng bạn hiểu mọi thứ
 Tôi là một người ham mê ghi chép. Tôi thích cách tôi không bao giờ quên hoặc bỏ qua bất cứ điều gì vì ghi chú
 ```
+# Type 25:
+```
+Điều quan trọng là phải triển khai dự án của bạn ngay lập tức.
+Bạn không muốn xây dựng một ứng dụng hoàn chỉnh cục bộ và sau đó gặp khó khăn trong việc triển khai.
+Việc xác định lỗi sẽ khó khăn nếu điều đó xảy ra, theo kinh nghiệm của bản thân tôi.
+
+Rất dễ bị phân tâm. Tập trung vào việc hoàn thành bước lặp đầu tiên của dự án.
+Bạn luôn có thể thêm nhiều thứ hơn sau này. Sự hoàn hảo là kẻ thù của sự tiến bộ.
+```
