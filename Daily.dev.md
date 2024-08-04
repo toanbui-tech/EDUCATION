@@ -179,3 +179,9 @@ Trong khi các phương pháp, thước đo và công cụ cung cấp một cấ
 thì bản chất thực sự của khả năng lãnh đạo thường nằm ở nghệ thuật hướng dẫn
 và truyền cảm hứng cho một nhóm.
 ```
+# Type 24:
+```
+Đừng đánh giá thấp việc ghi chép. Tôi tự làm nó. Ngay cả khi chỉ nói chuyện với ai đó
+Khi ghi chép, bạn không chỉ đảm bảo rằng mình không bỏ sót điều gì mà còn đảm bảo rằng bạn hiểu mọi thứ
+Tôi là một người ham mê ghi chép. Tôi thích cách tôi không bao giờ quên hoặc bỏ qua bất cứ điều gì vì ghi chú
+```
