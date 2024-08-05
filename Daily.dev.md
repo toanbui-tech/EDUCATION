@@ -194,3 +194,10 @@ Việc xác định lỗi sẽ khó khăn nếu điều đó xảy ra, theo kinh
 Rất dễ bị phân tâm. Tập trung vào việc hoàn thành bước lặp đầu tiên của dự án.
 Bạn luôn có thể thêm nhiều thứ hơn sau này. Sự hoàn hảo là kẻ thù của sự tiến bộ.
 ```
+# Type 26:
+```
+Khi xảy ra lỗi hệ thống, điều quan trọng là phải giữ bình tĩnh.
+Sự hoảng loạn có thể dẫn đến những quyết định vội vàng và có thể khiến vấn đề trở nên trầm trọng hơn.
+Hãy hít một hơi thật sâu và đánh giá tình hình.
+Thu thập càng nhiều thông tin càng tốt để hiểu phạm vi và tác động của thất bại.
+```
