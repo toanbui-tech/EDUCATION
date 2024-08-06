@@ -201,3 +201,4 @@ Sự hoảng loạn có thể dẫn đến những quyết định vội vàng v
 Hãy hít một hơi thật sâu và đánh giá tình hình.
 Thu thập càng nhiều thông tin càng tốt để hiểu phạm vi và tác động của thất bại.
 ```
+# Type 27:
