@@ -202,3 +202,8 @@ Hãy hít một hơi thật sâu và đánh giá tình hình.
 Thu thập càng nhiều thông tin càng tốt để hiểu phạm vi và tác động của thất bại.
 ```
 # Type 27:
+***- Life is Short, Use Dev Tools -***
+![BeMySkill](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5e5b9d5-3426-42ab-b690-2413ab249270_1280x1565.gif)
+# Type 28:
+***A Crash Course on REST APIs***
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd70ae0a-7b12-4bf7-a15d-ed5a3f4a9117_1600x1272.png)
