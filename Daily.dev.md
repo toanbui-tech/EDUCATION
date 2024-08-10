@@ -211,3 +211,4 @@ Thu thập càng nhiều thông tin càng tốt để hiểu phạm vi và tác 
 ***API Security Best Practices***
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66e9dc1a-3ca4-40a6-9578-ee59e9ae0ef8_3000x3900.png)
 # Type 30:
+# Type 31:
