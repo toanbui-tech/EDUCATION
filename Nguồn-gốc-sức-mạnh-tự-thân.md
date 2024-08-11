@@ -1,1 +1,4 @@
-![](https://cdnphoto.dantri.com.vn/tosiW7Wp9dr9BIafOl58wphaRbw=/thumb_w/1020/2023/03/31/nam-gioi-can-an-bao-nhieu-hau-moi-co-tac-dung-2-edited-1680224237938.jpeg)
+
+# Type 1:
+***Khi bản thân thành công ở bênh trong rồi, thì sự thành công ở bên ngoài chỉ là vấn đề thời gian***
+[![Video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID](https://www.tiktok.com/@nguyenthanh_0205/video/7398345123681062162?is_from_webapp=1&sender_device=pc))
