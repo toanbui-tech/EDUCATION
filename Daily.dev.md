@@ -213,6 +213,10 @@ Thu thập càng nhiều thông tin càng tốt để hiểu phạm vi và tác 
 # Type 30:
 ![Jordan Cutler](https://substackcdn.com/image/fetch/w_176,h_176,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fe86d99-af64-4285-b982-9466a4c58d63_1311x1312.jpeg)
 ***- Jordan Cutler -***
+*** 
+After receiving the message, I realized a powerful formula:
+Hard work + Good mentorship = Multiplicative growth
+***
 ***
 Mặc dù tôi không phải là người nhập cư thế hệ đầu tiên nhưng tôi là người đầu tiên trong gia đình tốt nghiệp đại học. 
 Thật không dễ dàng để tìm ra bối cảnh công nghệ trong công việc đầu tiên của tôi, 
