@@ -223,3 +223,11 @@ Thật không dễ dàng để tìm ra bối cảnh công nghệ trong công vi�
 đặc biệt là khi tôi nghiện trò chơi điện tử cho đến năm 18 tuổi và được bao quanh bởi một nền văn hóa cực kỳ khác biệt — đó là phiên bản “bình thường” của tôi.
 ***
 # Type 31:
+***
+Microsoft Bob chính là một thảm họa không thể giải quyết được. 
+Nhưng điều buồn cười về những thất bại là chúng thường dẫn đến những thành công sau này. Hãy lấy nó từ một người đã sống và hít thở dự án Bob:
+
+Có bao nhiêu người biết rằng nhà phát triển chính của Bob 2.0 cũng là người đồng sáng lập Valve và là người đứng đầu phát triển Half-Life, 
+trò chơi đã trở thành một hiện tượng trong ngành, 
+giành được hơn 50 giải thưởng Trò chơi của năm và bán được hơn 10 triệu bản. ?
+***
