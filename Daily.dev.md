@@ -231,3 +231,6 @@ Có bao nhiêu người biết rằng nhà phát triển chính của Bob 2.0 c�
 trò chơi đã trở thành một hiện tượng trong ngành, 
 giành được hơn 50 giải thưởng Trò chơi của năm và bán được hơn 10 triệu bản. ?
 ***
+# Type 32:
+  ***Bắt buộc phải đọc tối nay***
+  ```https://muratbuffalo.blogspot.com/2024/07/advice-to-young.html?ref=dailydev```
