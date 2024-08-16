@@ -234,3 +234,8 @@ giành được hơn 50 giải thưởng Trò chơi của năm và bán được
 # Type 32:
   ***Bắt buộc phải đọc tối nay***
   ```https://muratbuffalo.blogspot.com/2024/07/advice-to-young.html?ref=dailydev```
+# Type 33:
+***Hình thành một thói quen thích hợp có thể giúp bạn đạt được mục tiêu của mình.Trong cuốn sách đầy ảnh hưởng của mình Thói quen nguyên tử, James Clear đã vạch ra một cách hùng hồn lý do tại sao:***
+```java
+những hành động nhỏ, nhất quán lại có tác động mạnh mẽ hơn những nỗ lực hoành tráng chỉ diễn ra một lần.
+```
