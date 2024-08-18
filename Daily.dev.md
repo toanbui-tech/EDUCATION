@@ -236,6 +236,13 @@ giành được hơn 50 giải thưởng Trò chơi của năm và bán được
   ```https://muratbuffalo.blogspot.com/2024/07/advice-to-young.html?ref=dailydev```
 # Type 33:
 ***Hình thành một thói quen thích hợp có thể giúp bạn đạt được mục tiêu của mình.Trong cuốn sách đầy ảnh hưởng của mình Thói quen nguyên tử, James Clear đã vạch ra một cách hùng hồn lý do tại sao:***
-```java
+```
 những hành động nhỏ, nhất quán lại có tác động mạnh mẽ hơn những nỗ lực hoành tráng chỉ diễn ra một lần.
+```
+# Type 34:
+```
+Vấn đề nhờ mọi người giúp đỡ đưa chúng ta đến chủ đề về kỹ năng con người, hay còn gọi là "kỹ năng mềm".
+Tôi không hiểu những kỹ năng này có gì mềm, đây là những kỹ năng khó thành thạo nhất và quan trọng nhất để thành công.
+Nhưng một lần nữa, hầu hết người trẻ không nhận ra tầm quan trọng của những điều này.
+Heck, tôi vẫn còn sai lầm về những điều này.
 ```
