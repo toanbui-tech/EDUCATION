@@ -254,3 +254,7 @@ Vì vậy, khi bạn thấy mình đang ở thời điểm mà bạn có thể c
 nhưng bạn nghĩ rằng mình có thể làm điều đó tốt hơn, hãy tự hỏi bản thân xem bạn đam mê việc
 duy trì mã đó như thế nào trong vài năm tới .
 ```
+# Type 36:
+```
+
+```
