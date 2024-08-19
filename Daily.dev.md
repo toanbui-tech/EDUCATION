@@ -246,3 +246,11 @@ Tôi không hiểu những kỹ năng này có gì mềm, đây là những kỹ
 Nhưng một lần nữa, hầu hết người trẻ không nhận ra tầm quan trọng của những điều này.
 Heck, tôi vẫn còn sai lầm về những điều này.
 ```
+# Type 35:
+```
+Các kỹ sư dày dạn kinh nghiệm gọi đây là Hội chứng Not Invented Here (NIH).
+Và đó là một cạm bẫy dẫn đến việc sao chép công việc của người khác trong khi lại gánh thêm gánh nặng bảo trì mới.
+Vì vậy, khi bạn thấy mình đang ở thời điểm mà bạn có thể chọn một thư viện hoặc công cụ có sẵn
+nhưng bạn nghĩ rằng mình có thể làm điều đó tốt hơn, hãy tự hỏi bản thân xem bạn đam mê việc
+duy trì mã đó như thế nào trong vài năm tới .
+```
