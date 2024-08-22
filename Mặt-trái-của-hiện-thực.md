@@ -49,3 +49,15 @@ cho anh ấy nhận thức toàn diện về miền--một “cái nhìn của C
 Trong vòng vài tháng, Perna báo cáo rằng anh ấy
 “có thể biết từng giọt vắc xin ở đâu vào mọi thời điểm trong ngày”.
 ```
+# Type 3:
+![Go](D:\Go.png)
+```
+Về lâu về dài, hoàn thành một cuộc thi lập trình hackerrank khiến ta hạnh phúc hơn ăn một cái bánh socola.
+Nuôi nấng 1 đứa trẻ khiến ta thấy hạnh phúc hơn phá đảo một trò chơi điện tử.
+Bắt đầu một hoạt động kinh doanh nhỏ với bạn bè trong khi phải vật lộn để duy trì nó sẽ khiến ta hạnh phúc hơn mua một chiếc máy vi tính mới.
+Những hoạt động ấy đều đau đầu, gam go và thường không mấy vui vẻ.
+Chúng cũng đòi hỏi phải đối diện với hết vấn đề này đến vấn đề khác.
+Nhưng chúng cũng là một trong những khoảnh khắc có ý nghĩa và là một trong những việc vui vẻ nhất mà ta sẽ thực hiện.
+Chúng gắn liền với đau đớn, vật lộn, kể cả giận dữ và thất vọng.
+Nhưng khi hoàn thành chúng, một ngày nào đó mắt ta sẽ rơm rớm khi nhớ và kể lại cho con cháu về những việc ấy
+```
