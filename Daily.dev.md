@@ -257,3 +257,7 @@ duy trì mã đó như thế nào trong vài năm tới .
 # Type 36:
 ***Some of the common problem-solving patterns are:***
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff87e25d5-c74a-4b7a-b1d4-da91b6129132_2568x2280.png)
+# Type 37:
+```
+Làm việc 8 giờ thậm chí còn hơi tùy tiện. Đối với những công việc giải quyết vấn đề sáng tạo như lập trình, tôi đoán con số lý tưởng là gần bằng 6
+```
