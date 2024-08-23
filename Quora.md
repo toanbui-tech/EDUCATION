@@ -14,3 +14,11 @@ Nếu bạn đạt được mọi thứ thì sao? Sau khi đạt được thành
 Kiến thức về cái chết và cuộc sống của bạn,
 niềm tin vào Bản thân và niềm tin vào Thần thánh, tất cả đều làm dịu đi sự bất an về tinh thần.
 ```
+# Type 3:
+```
+Khi cuộc họp kết thúc, bạn lập tức chốt cửa để tránh bị vướng vào cuộc họp sau cuộc họp.
+Bạn sẽ đến vào ngày mai và sẽ có một email mô tả chính xác kết quả cuối cùng của cuộc họp
+là gì và nó ảnh hưởng như thế nào đến những gì bạn cần làm từ kiến ​​​​trúc sư của mình
+nhưng điều đó có thể đợi đến ngày mai.
+```
+***Tôi quan tâm, và tôi muốn mình như người kiến trúc sư ấy***
