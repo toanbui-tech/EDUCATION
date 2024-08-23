@@ -260,4 +260,6 @@ duy trì mã đó như thế nào trong vài năm tới .
 # Type 37:
 ```
 Làm việc 8 giờ thậm chí còn hơi tùy tiện. Đối với những công việc giải quyết vấn đề sáng tạo như lập trình, tôi đoán con số lý tưởng là gần bằng 6
+Cuối cùng, tôi khuyên bạn không nên tập trung vào tốc độ mà hãy tập trung vào tính hiệu quả.
+Có thể mã hóa thuật toán nhanh là một chuyện, còn có thể cung cấp giải pháp chất lượng sản xuất một cách nhanh chóng là một chuyện.
 ```
