@@ -263,3 +263,8 @@ Làm việc 8 giờ thậm chí còn hơi tùy tiện. Đối với những côn
 Cuối cùng, tôi khuyên bạn không nên tập trung vào tốc độ mà hãy tập trung vào tính hiệu quả.
 Có thể mã hóa thuật toán nhanh là một chuyện, còn có thể cung cấp giải pháp chất lượng sản xuất một cách nhanh chóng là một chuyện.
 ```
+# Type 38:
+***- Dr Milan Milanović -***
+```
+How to become an expert in anything?
+```
