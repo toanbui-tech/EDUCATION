@@ -268,3 +268,7 @@ Có thể mã hóa thuật toán nhanh là một chuyện, còn có thể cung c
 ```
 How to become an expert in anything?
 ```
+# Type 39:
+```
+
+```
