@@ -15,3 +15,10 @@ Bất kỳ ai đã có một số kinh nghiệm sống thường trở nên nghi
 vì họ nhận ra các vấn đề của nhân loại hoặc họ có thể nhận thức
 sâu sắc hơn về tình trạng của con người.
 ```
+# Type 4:
+```
+Khí tiết:
+Hầu hết những người chu đáo đều nghiêm túc trong khi những người bốc đồng và thiếu suy nghĩ thì ngược lại.
+Bất kỳ ai đã có một số kinh nghiệm sống thường trở nên nghiêm túc
+vì họ nhận ra các vấn đề của nhân loại hoặc họ có thể nhận thức sâu sắc hơn về tình trạng của con người.
+```
