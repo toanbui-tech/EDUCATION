@@ -8,3 +8,10 @@
 ```
 Thói quen hay thích đi sửa chửa mọi thứ, nâng cấp bất kì thứ gì có thể nâng cấp được ở xung quanh mình, xung quanh môi trường sống của mình. Nó hình thành từ ... 
 ```
+# Type 3:
+```
+Hầu hết những người chu đáo đều nghiêm túc trong khi những người bốc đồng và thiếu suy nghĩ thì ngược lại.
+Bất kỳ ai đã có một số kinh nghiệm sống thường trở nên nghiêm túc
+vì họ nhận ra các vấn đề của nhân loại hoặc họ có thể nhận thức
+sâu sắc hơn về tình trạng của con người.
+```
