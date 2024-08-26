@@ -269,6 +269,7 @@ Có thể mã hóa thuật toán nhanh là một chuyện, còn có thể cung c
 How to become an expert in anything?
 ```
 # Type 39:
+***How to Create Software Architecture Diagrams Using the C4 Model***
 ```
-
+https://www.structurizr.com
 ```
