@@ -273,3 +273,17 @@ How to become an expert in anything?
 ```
 https://www.structurizr.com
 ```
+# Type 40:
+```
+Một phương pháp bổ sung có thể được sử dụng với Lặp lại ngắt quãng là phương pháp Thu hồi tích cực.
+Nhớ lại tích cực là một chiến lược học tập liên quan đến việc tìm lại thông tin từ trí nhớ một cách có ý thức
+thay vì chỉ xem lại hoặc đọc lại tài liệu.
+Nó bắt đầu bằng việc tiếp xúc với tài liệu, tiếp theo là xem xét và sau đó là bước quan trọng - tích cực nhớ lại
+thông tin mà không cần tham khảo nguồn. Sau khi nhớ lại, bạn xác minh lại câu trả lời của mình,
+xác định lỗi và lặp lại quy trình cho đến khi bạn có thể nhớ lại thông tin một cách chính xác.
+Để nâng cao hiệu quả của chiến lược này, nó thường được kết hợp với sự lặp lại ngắt quãng,
+bao gồm việc tăng khoảng thời gian giữa mỗi lần nhớ lại.
+Mặc dù tốn nhiều công sức hơn so với ôn tập thụ động, phương pháp này cải thiện đáng kể khả năng duy trì trí nhớ
+dài hạn do sự tham gia tích cực mà nó đòi hỏi từ người học.
+```
+***Đó là lý do vì sao các bài thi, bài kiểm tra tồn tại xuyên suốt quảng đời đi học khi còn niên thiếu***
