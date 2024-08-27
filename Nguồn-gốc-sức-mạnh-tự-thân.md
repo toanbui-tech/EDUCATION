@@ -23,3 +23,11 @@ Hầu hết những người chu đáo đều nghiêm túc trong khi những ng�
 Bất kỳ ai đã có một số kinh nghiệm sống thường trở nên nghiêm túc
 vì họ nhận ra các vấn đề của nhân loại hoặc họ có thể nhận thức sâu sắc hơn về tình trạng của con người.
 ```
+# Type 5:
+***IELTS***
+```
+Loại bỏ các rào cản thực hành và tạo ra một môi trường giúp bạn thành công.
+Hãy thử kỹ thuật 1–2–2.
+Tập trung vào một kỹ năng trong hai giờ mỗi ngày trong hai tháng.
+Con đường cuộc sống của bạn sẽ được thay đổi sau này.
+```
