@@ -287,3 +287,13 @@ Mặc dù tốn nhiều công sức hơn so với ôn tập thụ động, phư�
 dài hạn do sự tham gia tích cực mà nó đòi hỏi từ người học.
 ```
 ***Đó là lý do vì sao các bài thi, bài kiểm tra tồn tại xuyên suốt quảng đời đi học khi còn niên thiếu***
+# Type 41:
+```
+Sự không hài lòng trong công việc cao giữa các nhà phát triển.
+Khoảng 80% nhà phát triển bày tỏ sự không hài lòng với công việc của họ,
+với một phần ba cực kỳ ghét công việc của họ. Nhiều người cho biết họ cảm
+thấy bị áp lực phải đáp ứng những thời hạn không thực tế, dẫn đến kiệt sức.
+Mặc dù có mức lương tốt và các lựa chọn công việc linh hoạt,
+nhưng sự căng thẳng về nợ kỹ thuật và hệ thống công nghệ phức
+tạp góp phần đáng kể vào sự bất hạnh của họ.
+```
