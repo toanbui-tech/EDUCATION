@@ -49,7 +49,7 @@ Sự tự tin là yếu tố dự báo chính của thành công.
 ```
 # Type 7:
 ```
-Chúng ta là những nhà phê bình gay gắt nhất của chính mình vào thời điểm này trong cuộc đời
+Chúng ta là những nhà phê bình gay gắt nhất của chính mình vào thời điểm này trong cuộc đời (22 tuổi)
 và rất có thể phẩm chất kém hấp dẫn nhất của bạn là sự thiếu tự tin về ngoại hình của chính mình.
 Hãy bắt đầu tin tưởng vào bản thân hơn một chút ngay bây giờ, để sau này bạn phải bớt hung hăng hơn một chút.
 ```
