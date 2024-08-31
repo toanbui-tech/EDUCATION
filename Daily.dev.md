@@ -297,3 +297,15 @@ Mặc dù có mức lương tốt và các lựa chọn công việc linh hoạt
 nhưng sự căng thẳng về nợ kỹ thuật và hệ thống công nghệ phức
 tạp góp phần đáng kể vào sự bất hạnh của họ.
 ```
+# Type 42:
+```
+Trên thực tế, tôi sẽ khẳng định rằng sự khác biệt giữa một lập trình viên tồi và một lập trình viên giỏi
+là liệu anh ta có coi mã hoặc cấu trúc dữ liệu của mình quan trọng hơn hay không.
+
+Khi tôi đọc câu trích dẫn này, tôi thực sự có thể nhận ra vô số ví dụ trong quá khứ về điều này.
+Tôi đã từng làm việc trong một dự án mà chúng tôi đã dành khá nhiều thời gian để tối ưu hóa các thuật toán phức tạp,
+chỉ để nhận ra rằng bằng cách tái cấu trúc dữ liệu, chúng tôi có thể loại bỏ toàn bộ các loại vấn đề.
+Chúng tôi đã thay thế hàm 500 dòng bằng hàm 50 dòng và cấu trúc dữ liệu được thiết kế tốt.
+Mã mới không chỉ nhanh hơn mà còn dễ hiểu và dễ bảo trì hơn nhiều.
+(Tất nhiên, sau đó vấn đề cũng chuyển “xuống ngăn xếp” đến nơi mà phần lớn công việc vất vả là tái cơ cấu dữ liệu hiện có.)
+```
