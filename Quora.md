@@ -39,3 +39,11 @@ Thật không may là thế giới người lớn lại hoạt động theo các
 Bạn càng sớm cảm thấy thoải mái khi yêu cầu mọi thứ thì bạn càng sớm nhận được kết quả lớn.
 Những kết quả mà người khác không nhận được vì họ quá ngại yêu cầu.
 ```
+# Type 6:
+```
+Không phải bởi công việc bạn đang làm hay người bạn đang hẹn hò hay vị trí của bạn trong cuộc sống,
+mà liên quan đến những người bạn đã tốt nghiệp đại học cùng.
+Xấu hổ là một sự lựa chọn.
+Và bạn càng chọn cách tự hào về bản thân mình - bất kể bạn đang ở đâu trong cuộc sống - thì bạn càng tiến xa hơn.
+Sự tự tin là yếu tố dự báo chính của thành công.
+```
