@@ -30,3 +30,12 @@ Như người ta thường nói, bạn tránh được sai lầm nhờ kinh nghi
 ```
 Bạn tích lũy kinh nghiệm từ nhiều năm mắc sai lầm.
 ```
+# Type 5:
+```
+Sẽ không có ai trao cho bạn công việc mơ ước,
+mối quan hệ hoàn hảo hay lối sống lý tưởng của bạn chỉ vì bạn đã tuân thủ các quy tắc một cách siêng năng.
+Bạn phải hỏi – một cách trực tiếp và đôi khi không ngừng – về những điều đó.
+Thật không may là thế giới người lớn lại hoạt động theo cách này, nhưng thực tế là vậy.
+Bạn càng sớm cảm thấy thoải mái khi yêu cầu mọi thứ thì bạn càng sớm nhận được kết quả lớn.
+Những kết quả mà người khác không nhận được vì họ quá ngại yêu cầu.
+```
