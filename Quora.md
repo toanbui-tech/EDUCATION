@@ -53,3 +53,9 @@ Chúng ta là những nhà phê bình gay gắt nhất của chính mình vào t
 và rất có thể phẩm chất kém hấp dẫn nhất của bạn là sự thiếu tự tin về ngoại hình của chính mình.
 Hãy bắt đầu tin tưởng vào bản thân hơn một chút ngay bây giờ, để sau này bạn phải bớt hung hăng hơn một chút.
 ```
+# Type 8:
+```
+Ở tuổi hai mươi hai, rất có thể bạn không có nhiều trách nhiệm.
+Đây là thời điểm hoàn hảo để chấp nhận rủi ro.
+Sẽ khó khăn hơn rất nhiều khi bạn có người yêu, con cái và phải chăm sóc bố mẹ vì họ đã già.
+```
