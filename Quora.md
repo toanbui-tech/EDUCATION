@@ -22,3 +22,11 @@ là gì và nó ảnh hưởng như thế nào đến những gì bạn cần l�
 nhưng điều đó có thể đợi đến ngày mai.
 ```
 ***Tôi quan tâm, và tôi muốn mình như người kiến trúc sư ấy***
+# Type 4:
+```
+Như người ta thường nói, bạn tránh được sai lầm nhờ kinh nghiệm nhiều năm.
+```
+***Và đồng thời***
+```
+Bạn tích lũy kinh nghiệm từ nhiều năm mắc sai lầm.
+```
