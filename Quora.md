@@ -47,3 +47,9 @@ Xấu hổ là một sự lựa chọn.
 Và bạn càng chọn cách tự hào về bản thân mình - bất kể bạn đang ở đâu trong cuộc sống - thì bạn càng tiến xa hơn.
 Sự tự tin là yếu tố dự báo chính của thành công.
 ```
+# Type 7:
+```
+Chúng ta là những nhà phê bình gay gắt nhất của chính mình vào thời điểm này trong cuộc đời
+và rất có thể phẩm chất kém hấp dẫn nhất của bạn là sự thiếu tự tin về ngoại hình của chính mình.
+Hãy bắt đầu tin tưởng vào bản thân hơn một chút ngay bây giờ, để sau này bạn phải bớt hung hăng hơn một chút.
+```
