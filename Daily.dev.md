@@ -317,3 +317,6 @@ Hãy ghi chép lại những lần thất bại và lý do bạn thất bại, b
 Mọi người đều có ít nhất một điểm yếu lớn kìm hãm họ; nhật ký của bạn sẽ giúp bạn phát hiện ra điểm yếu đó.
 Nhiều lần thất bại của tôi xuất phát từ việc quá thiếu kiên nhẫn (tôi vẫn đang cố gắng cải thiện điều này!).
 ```
+# Type 45:
+***What happens when you type a URL into your browser?***
+![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf03dcf1-bf10-49cd-9616-3cfbef582983_2048x1448.jpeg)
