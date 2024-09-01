@@ -309,3 +309,11 @@ Chúng tôi đã thay thế hàm 500 dòng bằng hàm 50 dòng và cấu trúc 
 Mã mới không chỉ nhanh hơn mà còn dễ hiểu và dễ bảo trì hơn nhiều.
 (Tất nhiên, sau đó vấn đề cũng chuyển “xuống ngăn xếp” đến nơi mà phần lớn công việc vất vả là tái cơ cấu dữ liệu hiện có.)
 ```
+# Type 44:
+```
+Đau đớn + suy ngẫm = tiến bộ.
+Thất bại chỉ hữu ích nếu bạn học được từ nó.
+Hãy ghi chép lại những lần thất bại và lý do bạn thất bại, bất kể nó đau đớn đến mức nào.
+Mọi người đều có ít nhất một điểm yếu lớn kìm hãm họ; nhật ký của bạn sẽ giúp bạn phát hiện ra điểm yếu đó.
+Nhiều lần thất bại của tôi xuất phát từ việc quá thiếu kiên nhẫn (tôi vẫn đang cố gắng cải thiện điều này!).
+```
