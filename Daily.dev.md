@@ -320,3 +320,11 @@ Nhiều lần thất bại của tôi xuất phát từ việc quá thiếu kiê
 # Type 45:
 ***What happens when you type a URL into your browser?***
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf03dcf1-bf10-49cd-9616-3cfbef582983_2048x1448.jpeg)
+# Type 46:
+***Why is System Design so important?***
+```
+Thiết kế hệ thống giúp chúng tôi xác định giải pháp đáp ứng yêu cầu kinh doanh.
+Đó là một trong những quyết định sớm nhất mà chúng ta có thể đưa ra khi xây dựng một hệ thống.
+Thông thường, điều cần thiết là phải suy nghĩ ở cấp độ cao hơn vì những quyết định này rất khó sửa chữa sau này.
+Nó cũng giúp việc lập luận và quản lý các thay đổi kiến ​​trúc dễ dàng hơn khi hệ thống phát triển.
+```
