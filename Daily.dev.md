@@ -328,3 +328,21 @@ Thiết kế hệ thống giúp chúng tôi xác định giải pháp đáp ứn
 Thông thường, điều cần thiết là phải suy nghĩ ở cấp độ cao hơn vì những quyết định này rất khó sửa chữa sau này.
 Nó cũng giúp việc lập luận và quản lý các thay đổi kiến ​​trúc dễ dàng hơn khi hệ thống phát triển.
 ```
+# Type 47:
+```
+Nguồn gốc của cuốn sách này nằm ở sự nhận ra của tôi sau nhiều năm lãnh đạo các nhóm kỹ thuật:
+Phải tồn tại một khoảng cách đáng kể giữa một kỹ sư giỏi và một nhà lãnh đạo kỹ thuật giỏi.
+Tôi đã chứng kiến ​​những kỹ thuật viên xuất sắc gặp khó khăn
+khi họ đảm nhận vai trò lãnh đạo và tôi đã trực tiếp trải qua những thử thách này.
+
+Mục tiêu của tôi là tạo ra một nguồn tài nguyên toàn diện bao gồm mọi thứ,
+từ xây dựng đội ngũ hiệu quả đến giải quyết các thách thức lãnh đạo phức tạp.
+Tôi muốn chia sẻ những hiểu biết sâu sắc về việc thúc đẩy sự đổi mới,
+quản lý các tính cách đa dạng và thúc đẩy hiệu suất cao trong các nhóm kỹ thuật.
+
+Nhưng hơn thế nữa, tôi muốn nhấn mạnh khía cạnh con người của khả năng lãnh đạo.
+Công nghệ phát triển nhanh chóng, nhưng các nguyên tắc cơ bản của khả năng lãnh đạo tốt—sự đồng cảm,
+giao tiếp và tầm nhìn— vẫn không đổi.
+Cuốn sách này là nỗ lực của tôi nhằm kết hợp những nguyên tắc vượt thời gian này
+với những yêu cầu đặc biệt của việc dẫn đầu trong ngành công nghệ.
+```
