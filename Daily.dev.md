@@ -346,3 +346,8 @@ giao tiếp và tầm nhìn— vẫn không đổi.
 Cuốn sách này là nỗ lực của tôi nhằm kết hợp những nguyên tắc vượt thời gian này
 với những yêu cầu đặc biệt của việc dẫn đầu trong ngành công nghệ.
 ```
+# Type 48:
+***Thử thách: Khởi động 100 dự án (Điên rồ nhỉ? 😆)***
+```
+Nếu giả sử, tôi sẽ khởi chạy 100 dự án và ứng dụng trong 10 năm tới và trung bình mỗi ứng dụng kiếm được 100 đô la mỗi tháng, tổng cộng là 10 nghìn đô la mỗi tháng.
+```
