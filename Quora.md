@@ -59,3 +59,11 @@ Hãy bắt đầu tin tưởng vào bản thân hơn một chút ngay bây giờ
 Đây là thời điểm hoàn hảo để chấp nhận rủi ro.
 Sẽ khó khăn hơn rất nhiều khi bạn có người yêu, con cái và phải chăm sóc bố mẹ vì họ đã già.
 ```
+# Type 9:
+```
+React không phải là phần khó trong thực tế,
+trở ngại của bạn nằm ở việc nắm bắt cú pháp ES6
+và các thư viện gần như 100% hiện tại (và tuyệt vời) như Redux, Axios, React-Router, v.v.
+Vì React chỉ là phần xem nên phần đó là khá dễ dàng.
+Đặt tất cả lại với nhau, không dễ dàng chút nào.
+```
