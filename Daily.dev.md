@@ -354,3 +354,23 @@ Nếu giả sử, tôi sẽ khởi chạy 100 dự án và ứng dụng trong 10
 # Type 49:
 ***React Server Components***
 ![](https://www.robinwieruch.de/static/69e949750b3e4903d52d440ec36b4817/a9a89/full-stack-react.webp)
+```
+Nhìn lại, thật thú vị khi thấy nhận thức của các nhà phát triển trong giai đoạn từ 2010 đến 2020 khác nhau như thế nào tùy theo thời điểm họ bắt đầu sự nghiệp.
+
+Các nhà phát triển bắt đầu trước năm 2010 nhận thấy mình đang làm việc trong môi trường kết xuất phía máy chủ (SSR)
+và nhìn chung có vẻ thoải mái hơn với sự chuyển đổi gần đây trở lại các kỹ thuật phía máy chủ.
+Ngược lại, nhiều người khác đã dành gần một thập kỷ chỉ làm việc với API REST trong các ứng
+dụng được kết xuất phía máy khách (CSR). Bây giờ họ không biết phải làm gì với thế giới React full-stack mới.
+
+Nhưng quay lại chủ đề ở đây! Trong những năm gần đây,
+TypeScript đã nổi lên như một tiêu chuẩn công nghiệp,
+cung cấp cho các nhà phát triển giao diện người dùng một ngôn ngữ lập trình mạnh mẽ và được đánh máy hơn.
+Một khi các nhà phát triển đã chấp nhận TypeScript, họ sẽ không thể quay đầu lại.
+Thật thú vị khi một thay đổi tương đối nhỏ trong mã có thể có tác động đáng kể đến cả cấp độ cá nhân và toàn ngành.
+Tuy nhiên, tác động của TypeScript lên REST liên quan đến rất nhiều giải pháp tạm thời.
+Mặc dù OpenAPI (trước đây là Swagger) đã tồn tại trước đây, cho phép các nhóm ghi lại API REST,
+nhưng mục đích chính của nó giờ đây là tạo ra các giao diện API được gõ.
+Mặc dù có khả năng tạo các giao diện được đánh máy hoàn hảo trong kiến ​​trúc máy khách-máy chủ,
+nhưng nhiều dự án, theo kinh nghiệm của tôi với tư cách là nhà phát triển web tự do trong nhiều năm,
+đã không triển khai nó đúng cách ngay từ đầu.
+```
