@@ -67,3 +67,9 @@ và các thư viện gần như 100% hiện tại (và tuyệt vời) như Redux
 Vì React chỉ là phần xem nên phần đó là khá dễ dàng.
 Đặt tất cả lại với nhau, không dễ dàng chút nào.
 ```
+# Type 10:
+```
+Đặt câu hỏi cho mọi thứ .
+Không phải theo cách chống đối mà theo cách tò mò.
+Khi bạn biết “Tại sao”, bạn đã tăng cơ hội giải quyết vấn đề lên 87695%.
+```
