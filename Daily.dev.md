@@ -374,3 +374,9 @@ Mặc dù có khả năng tạo các giao diện được đánh máy hoàn hả
 nhưng nhiều dự án, theo kinh nghiệm của tôi với tư cách là nhà phát triển web tự do trong nhiều năm,
 đã không triển khai nó đúng cách ngay từ đầu.
 ```
+# Type 50:
+```
+Những nhân viên cảm thấy được hỗ trợ trong quá trình phát triển của mình
+có nhiều khả năng đóng góp hiệu quả cho tổ chức và thể hiện lòng trung thành lớn hơn,
+giảm tỷ lệ luân chuyển và thúc đẩy văn hóa cải tiến liên tục.
+```
