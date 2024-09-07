@@ -380,3 +380,9 @@ Những nhân viên cảm thấy được hỗ trợ trong quá trình phát tri
 có nhiều khả năng đóng góp hiệu quả cho tổ chức và thể hiện lòng trung thành lớn hơn,
 giảm tỷ lệ luân chuyển và thúc đẩy văn hóa cải tiến liên tục.
 ```
+# Type 51:
+```
+Vì vậy, lần tới khi bạn định tra Google thứ gì đó, trước tiên bạn nên tích cực cố gắng ghi nhớ cú pháp.
+Mặc dù lúc đó nó có thể không hiệu quả, nhưng hành động cố gắng ghi nhớ có thể củng cố trí nhớ của bạn và có thể giúp bạn ghi nhớ vào lần sau.
+Nếu cách đó không hiệu quả, hãy tạo một flashcard và tích cực luyện tập.
+```
