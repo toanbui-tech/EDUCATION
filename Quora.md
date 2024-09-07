@@ -73,3 +73,7 @@ Vì React chỉ là phần xem nên phần đó là khá dễ dàng.
 Không phải theo cách chống đối mà theo cách tò mò.
 Khi bạn biết “Tại sao”, bạn đã tăng cơ hội giải quyết vấn đề lên 87695%.
 ```
+# Type 11:
+```
+Hãy nhớ rằng, những gì bạn làm hàng ngày quan trọng hơn những gì bạn làm thỉnh thoảng.
+```
