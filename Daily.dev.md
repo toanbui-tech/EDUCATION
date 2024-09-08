@@ -386,3 +386,10 @@ Vì vậy, lần tới khi bạn định tra Google thứ gì đó, trước ti�
 Mặc dù lúc đó nó có thể không hiệu quả, nhưng hành động cố gắng ghi nhớ có thể củng cố trí nhớ của bạn và có thể giúp bạn ghi nhớ vào lần sau.
 Nếu cách đó không hiệu quả, hãy tạo một flashcard và tích cực luyện tập.
 ```
+# Type 52:
+```
+Không có thời hạn thì không làm được việc gì.
+Đừng ngại dồn hết tâm huyết vào công việc để hoàn thành đúng thời hạn.
+Khi có ý chí, có con đường.
+Những nỗ lực tuyệt vọng của bạn để biến điều gì đó thành hiện thực thường sẽ dẫn đến công việc tập trung và hiệu quả nhất (và đôi khi là sáng tạo) của bạn
+```
