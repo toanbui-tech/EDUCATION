@@ -393,3 +393,31 @@ Không có thời hạn thì không làm được việc gì.
 Khi có ý chí, có con đường.
 Những nỗ lực tuyệt vọng của bạn để biến điều gì đó thành hiện thực thường sẽ dẫn đến công việc tập trung và hiệu quả nhất (và đôi khi là sáng tạo) của bạn
 ```
+# Type 53:
+```
+Con ong không tạo ra mật chỉ là loài gây hại.
+Sản xuất một lượng nhỏ mỗi tuần là chìa khóa để giữ cho cơ bắp của bạn không bị teo.
+Hãy coi nó như việc đầu tư vào con heo đất kỹ năng của bạn mỗi tuần.
+Bằng cách này, bạn cũng tích lũy được công việc mà sau này bạn có thể dựa vào để sáng tác một thứ gì đó lớn hơn
+```
+# Type 54:
+```
+Học cách giao tiếp tốt.
+Hãy dành nhiều thời gian hơn bạn nghĩ là đủ để cải thiện khả năng viết và trình bày của bạn.
+Không một giây nào của công việc này bị lãng phí.
+Thực sự, chỉ cần đọc qua phần Viết/Trình bày ở đây.
+```
+# Type 55:
+***Nuôi dưỡng sự tập trung sâu sắc thông qua thực hành có chủ ý***
+```
+Tôi đã viết về những điều này trước đó.
+Điều quan trọng là trau dồi công việc sâu sắc thông qua thực hành.
+Bộ não con người được lập trình để tiết kiệm năng lượng và tự thực hiện dễ dàng,
+vì vậy nó thích những công việc nông cạn (chẳng hạn như xem TV, duyệt web, trả lời email)
+và cố gắng tránh những buổi suy nghĩ căng thẳng cần thiết cho nhiều công việc sáng tạo như viết,
+suy nghĩ về một bằng chứng. và thiết kế một thuật toán.
+Kết quả là chúng ta tích lũy rất nhiều thói quen học tập không tốt:
+tưởng chừng như đang làm việc nhưng lại học chậm, bị phân tâm bởi những suy nghĩ khác và mất tập trung.
+Nói cách khác, trừ khi chúng ta cân nhắc kỹ lưỡng,
+rất dễ chuyển sang chế độ làm việc nông cạn hời hợt thay vì chế độ làm việc sâu hiệu quả.
+```
