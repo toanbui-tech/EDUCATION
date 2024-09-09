@@ -421,3 +421,13 @@ tưởng chừng như đang làm việc nhưng lại học chậm, bị phân t�
 Nói cách khác, trừ khi chúng ta cân nhắc kỹ lưỡng,
 rất dễ chuyển sang chế độ làm việc nông cạn hời hợt thay vì chế độ làm việc sâu hiệu quả.
 ```
+# Type 56:
+```
+Điểm yếu thực sự nghiêm trọng 
+Nếu bạn có một vấn đề dai dẳng, chưa được giải quyết (“Tôi luôn có vấn đề với việc quản lý thời gian”)
+thì thực ra bạn có hai điểm yếu.
+Một là bản thân vấn đề.
+Điểm yếu còn lại là bạn đã không làm gì để giải quyết, và có lẽ đó là điểm yếu nghiêm trọng hơn.
+
+Rất có thể một quy trình tuyển dụng hiệu quả sẽ phát hiện ra điều này, bất kể bạn nói gì về nó.
+```
