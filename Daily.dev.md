@@ -431,3 +431,10 @@ Một là bản thân vấn đề.
 
 Rất có thể một quy trình tuyển dụng hiệu quả sẽ phát hiện ra điều này, bất kể bạn nói gì về nó.
 ```
+# Type 57:
+```
+Những ứng viên tự tin, có kinh nghiệm và tin tưởng vào bản thân sẽ không bị cám dỗ chuyển sang các công cụ AI.
+Những người ít chắc chắn về bản thân mới là người làm vậy, hy vọng nhận được một chút trợ giúp thêm
+
+Nếu bạn không tin vào chính mình thì khó có thể mong đợi người khác tin vào bạn.
+```
