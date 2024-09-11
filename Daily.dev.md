@@ -438,3 +438,7 @@ Những người ít chắc chắn về bản thân mới là người làm vậ
 
 Nếu bạn không tin vào chính mình thì khó có thể mong đợi người khác tin vào bạn.
 ```
+# Type 58:
+```
+Lẽ ra tôi nên phát triển những thói quen lành mạnh của “người già” sớm hơn.
+```
