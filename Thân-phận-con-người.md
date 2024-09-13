@@ -52,3 +52,20 @@ Sẽ hạ quyết tâm, thực hiện ước mơ "Phục Hưng Gia Đạo".
 
 
 ```
+# Type 3:
+```
+Khả năng khiến mọi người cảm thấy tốt là cách bạn sẽ được đánh giá trên con đường của mình.
+Mọi thứ đều phụ thuộc vào cách đồng nghiệp, khách hàng, đối tác và công chúng cảm nhận về bạn.
+Khiến họ cảm thấy tốt và tôi hứa rằng bạn cũng sẽ cảm thấy tốt.
+
+- Evan Cunningham -
+```
+***Think:***
+```
+Cách nghĩ này sẽ hướng sự chú ý ra bên ngoài.
+Điều chỉnh: Hiểu những tác động gì sẽ khiến mọi người cảm thấy tốt,
+và thực hành ở một mức độ mà bẩn thân cảm thấy thích làm vì bản thân muốn vậy, tóm lại nó xuất phát từ lý tưởng bên trong,
+nó đến từ bên trong chính bản thân do sự hiểu biết về thế giới và về thân phận con người và về mối liên kết giữa người với người,
+chứ không phải thèm khát sự chú ý từ bên ngoài
+
+```
