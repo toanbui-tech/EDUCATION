@@ -442,3 +442,7 @@ Nếu bạn không tin vào chính mình thì khó có thể mong đợi ngườ
 ```
 Lẽ ra tôi nên phát triển những thói quen lành mạnh của “người già” sớm hơn.
 ```
+# Type 59:
+```
+Tìm hiểu các quy tắc của nền kinh tế mới.
+```
