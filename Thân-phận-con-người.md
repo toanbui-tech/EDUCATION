@@ -69,3 +69,7 @@ nó đến từ bên trong chính bản thân do sự hiểu biết về thế g
 chứ không phải thèm khát sự chú ý từ bên ngoài
 
 ```
+# Type 4:
+```
+Có thể nói chúng ta đã trưởng thành đúng cách?
+```
