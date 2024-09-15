@@ -446,3 +446,10 @@ Lẽ ra tôi nên phát triển những thói quen lành mạnh của “ngườ
 ```
 Tìm hiểu các quy tắc của nền kinh tế mới.
 ```
+# Type 60:
+```
+Chỉ cần bắt đầu thôi. Cách tốt nhất để biết liệu điều gì đó có hiệu quả hay không là thử nó.
+Đừng lãng phí thời gian lập những kế hoạch lớn lao hay suy nghĩ: “Một ngày nào đó, tôi sẽ làm được điều này”.
+Thay vào đó, chỉ cần bắt đầu và nhận phản hồi thực sự.
+Đi qua vòng lặp hiểu, xác định và thực hiện càng nhanh càng tốt.
+```
