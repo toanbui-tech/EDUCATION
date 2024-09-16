@@ -73,3 +73,12 @@ chứ không phải thèm khát sự chú ý từ bên ngoài
 ```
 Có thể nói chúng ta đã trưởng thành đúng cách?
 ```
+# Type 5:
+```
+Một tác giả về thể loại sách nhận thức tự thân,
+đã giới thiệu 1 cuốn sách đã thay đổi nhận thức và tư duy của ông ấy về thế giới,
+về cách nhìn nhận bản thân, về những nguồn cơn trong thời thơ ấu tạo nên con người hiện tại của ta.
+Quyển sách ấy tên là: Tạm biệt Trai ngoan
+
+Đọc cuốn sách này
+```
