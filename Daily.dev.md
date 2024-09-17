@@ -453,3 +453,7 @@ Chỉ cần bắt đầu thôi. Cách tốt nhất để biết liệu điều g
 Thay vào đó, chỉ cần bắt đầu và nhận phản hồi thực sự.
 Đi qua vòng lặp hiểu, xác định và thực hiện càng nhanh càng tốt.
 ```
+# Type 61:
+```
+npm install reactflow
+```
