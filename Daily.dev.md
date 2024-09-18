@@ -457,3 +457,17 @@ Thay vào đó, chỉ cần bắt đầu và nhận phản hồi thực sự.
 ```
 npm install reactflow
 ```
+# Type 62:
+***What are you doing this week? Feel free to share!***
+```
+$HOME:
+Vẫn đang tập cho con gái ngồi bô, nhưng giờ đây nó giống một hoạt động thụ động hơn là chủ động. Cô ấy đang làm rất tốt.
+Thời gian dành cho gia đình với cả hai đứa trẻ
+Tiếp tục làm việc với trò chơi Nhàn rỗi của tôi, bất chấp tất cả những điều ác ý mà AI đã nói về kho lưu trữ của tôi
+
+$WORK:
+Tôi hiện đang dẫn đầu một quá trình di chuyển lớn từ AWS -> GCP,
+vì vậy tôi hoàn toàn không biết thông tin chi tiết và nghiên cứu về cách chúng tôi sao chép nhiều luồng
+dành riêng cho AWS trong tài nguyên GCP và những khoảng trống còn tồn tại.
+Nhiều cái mới nhưng mình thấy khá thú vị.
+```
