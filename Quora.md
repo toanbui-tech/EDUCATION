@@ -77,3 +77,12 @@ Khi bạn biết “Tại sao”, bạn đã tăng cơ hội giải quyết vấ
 ```
 Hãy nhớ rằng, những gì bạn làm hàng ngày quan trọng hơn những gì bạn làm thỉnh thoảng.
 ```
+# Type 12:
+```
+Bạn đang tìm việc hay đang cố gắng tạo ứng dụng của riêng mình?
+Hãy chọn một dự án khá đơn giản và bắt đầu thiết kế, tạo mẫu và mã hóa nó.
+Nhận ra rằng bạn sẽ vứt bỏ mã sau này nên đừng cố gắng đi quá chi tiết.
+Tự phân tích những thứ có vẻ khó hoặc ngày càng trở nên lộn xộn.
+Bạn sẽ nhớ điều này khi bạn học các kỹ thuật sách khác sau này,
+điều này sẽ giúp bạn tiếp thu thông tin tốt hơn nhiều so với việc chỉ đọc mà không có kinh nghiệm.
+```
