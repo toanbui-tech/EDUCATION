@@ -471,3 +471,22 @@ vì vậy tôi hoàn toàn không biết thông tin chi tiết và nghiên cứu
 dành riêng cho AWS trong tài nguyên GCP và những khoảng trống còn tồn tại.
 Nhiều cái mới nhưng mình thấy khá thú vị.
 ```
+# Type 63:
+***Xây dựng một tính năng, và tìm ra 1 solution chưa tối ưu, 
+nhưng vì không có thời gian, kỹ sư này quyết định dùng tạm solution này và comment để đánh dấu là nó chưa tối ưu và sẽ sửa sau này***
+***Và đây là kết quả của cái đoạn comment và của cái tính năng "chưa hoàn hảo" đó:***
+```
+Và điều buồn cười là, tôi tưởng đoạn mã này sẽ chỉ là tạm thời (và trên thực tế, nhận xét TODO: vẫn coi nó như một "biện pháp tạm thời");
+nhưng cuối cùng nó đã trở thành vĩnh viễn.
+Bạn có thể lập luận rằng hiện tại tôi có mã chưa tối ưu trong ứng dụng sản xuất của mình.
+Và bạn có thể lập luận rằng nhận xét đó gây hiểu nhầm ("biện pháp tạm thời").
+Và bạn sẽ đúng ở cả hai khía cạnh.
+Tuy nhiên, tôi có một giải pháp hiệu quả, chính xác và chưa tối ưu mà người dùng của tôi có thể sử dụng ngay hôm nay.
+Đối với tôi, việc giải quyết vấn đề cho khách hàng được ưu tiên hơn việc tạo ra giải pháp hoàn hảo.
+```
+Rất ấn tượng:
+***Tuy nhiên, tôi có một giải pháp hiệu quả, chính xác và chưa tối ưu mà người dùng của tôi có thể sử dụng ngay hôm nay.
+Đối với tôi, việc giải quyết vấn đề cho khách hàng được ưu tiên hơn việc tạo ra giải pháp hoàn hảo.***
+Suy nghĩ của riêng tôi về điều này: ***Khi có thời gian, sẽ có 1 tính năng hoàn hảo cho khách hàng, nhưng đứng trước bờ vực của sự đánh đổi "không còn thời gian" và "tính năng này chưa hoàn hảo"
+tôi sẽ chọn triển khai tính năng ấy để người dùng có thể sử dụng ngay hôm nay.
+Sau tất cả những khúc mắc vừa rồi. Đây là lựa chọn của tôi***
