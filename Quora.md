@@ -86,3 +86,21 @@ Tự phân tích những thứ có vẻ khó hoặc ngày càng trở nên lộn
 Bạn sẽ nhớ điều này khi bạn học các kỹ thuật sách khác sau này,
 điều này sẽ giúp bạn tiếp thu thông tin tốt hơn nhiều so với việc chỉ đọc mà không có kinh nghiệm.
 ```
+# Type 13:
+```
+Hãy xem máy tính như một đứa trẻ, một đứa trẻ chăm chỉ.
+Miễn là bạn dạy nó đúng cách, đứa trẻ sẽ thực hiện các bài học của bạn hết lần này đến lần khác, ngày này qua ngày khác.
+Đứa trẻ không thể tự suy nghĩ (chúng ta không nói về AI lúc này) và trong trường hợp các bài học của bạn sai,
+nó cũng sẽ thực hiện chúng. Sự hiểu biết này là nền tảng để học lập trình.
+
+Hầu hết các khái niệm cơ bản trong lập trình là phần mở rộng của toán học và logic - hầu hết có thể tìm thấy trong cuộc sống hàng ngày.
+Đối với mọi khái niệm bạn học, hãy thử và rút ra ví dụ từ cuộc sống thực.
+Bằng cách đó, bạn sẽ nhớ chúng trong một thời gian dài.
+
+Đến với ngôn ngữ, hãy bắt đầu với C (với cái giá là sáo rỗng).
+Học các khái niệm cơ bản nhất bằng C, nó đơn giản và thanh lịch.
+Sau đó, hãy thử sức với một ngôn ngữ cho mỗi mô hình, chỉ để nếm thử.
+Sau đó, hãy chọn một thứ và trở thành chuyên gia.
+
+Còn tôi, tôi vẫn đang tìm hiểu xem mình thích điều gì.
+```
