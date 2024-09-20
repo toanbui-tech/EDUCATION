@@ -503,3 +503,6 @@ Tôi nhớ ngày xưa đã tìm hiểu sâu về Python và CI/CD, dạy nó nga
 Suy nghĩ của riêng tôi về điều này: ***Đúng, tôi có một nguồn động lực và một lí do vô cùng lớn
 Đến mức khi đối mặt với khoảnh khắc cận kề cái chết, nó vẫn thế.
 ***
+# Type 65:
+***Docker***
+![](https://containerd.io/img/architecture.png)
