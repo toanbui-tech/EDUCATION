@@ -104,3 +104,13 @@ Sau đó, hãy chọn một thứ và trở thành chuyên gia.
 
 Còn tôi, tôi vẫn đang tìm hiểu xem mình thích điều gì.
 ```
+# Type 14:
+****Background: 2 người lái xe rơi vào tình trạng kẹt xe, 1 người là software engineer còn người kia là người bình thường***
+```
+Bây giờ, tôi hình dung rằng hầu hết mọi người xung quanh chúng ta đều nói,
+"Ôi trời, giao thông ơi—di chuyển đi, mọi người!"
+Và bản thân tôi cũng thường cảm thấy như vậy, nhưng giống như những kỹ sư khác,
+tôi cũng muốn biết tại sao mọi thứ lại như vậy, điểm thất bại nằm ở đâu.
+Vì vậy, tôi muốn nói rằng một điều khiến các kỹ sư trở nên khác biệt là xu hướng phân tích,
+thu thập dữ liệu và đưa ra các lý thuyết thay vì chỉ nói, "Thật kỳ lạ".
+```
