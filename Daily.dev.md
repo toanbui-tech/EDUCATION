@@ -490,3 +490,16 @@ Rất ấn tượng:
 Suy nghĩ của riêng tôi về điều này: ***Khi có thời gian, sẽ có 1 tính năng hoàn hảo cho khách hàng, nhưng đứng trước bờ vực của sự đánh đổi "không còn thời gian" và "tính năng này chưa hoàn hảo"
 tôi sẽ chọn triển khai tính năng ấy để người dùng có thể sử dụng ngay hôm nay.
 Sau tất cả những khúc mắc vừa rồi. Đây là lựa chọn của tôi***
+# Type 64:
+```
+Tham vọng không phải là một kỹ năng - đó là ý chí.
+Bạn có nó hoặc bạn không.
+Để phát triển, bạn cần có động lực bên trong thúc đẩy bạn tiến về phía trước.
+Đôi khi, đó là một lựa chọn có ý thức, và những lúc khác,
+bạn không thể làm được - điều gì đó bên trong bạn không chịu đứng yên,
+thúc đẩy bạn tiếp tục học hỏi và tiến về phía trước.
+Tôi nhớ ngày xưa đã tìm hiểu sâu về Python và CI/CD, dạy nó ngay cả khi tôi vẫn đang tự học.
+```
+Suy nghĩ của riêng tôi về điều này: ***Đúng, tôi có một nguồn động lực và một lí do vô cùng lớn
+Đến mức khi đối mặt với khoảnh khắc cận kề cái chết, nó vẫn thế.
+***
