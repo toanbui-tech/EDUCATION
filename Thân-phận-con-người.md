@@ -82,3 +82,7 @@ Quyển sách ấy tên là: Tạm biệt Trai ngoan
 
 Đọc cuốn sách này
 ```
+# Type 6:
+```
+Chuẩn bị cho thời khắc đẩy sy
+```
