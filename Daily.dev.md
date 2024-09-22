@@ -506,3 +506,7 @@ Suy nghĩ của riêng tôi về điều này: ***Đúng, tôi có một nguồn
 # Type 65:
 ***Docker***
 ![](https://containerd.io/img/architecture.png)
+# Type 66:
+```
+Go
+```
