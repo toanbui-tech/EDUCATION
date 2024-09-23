@@ -508,5 +508,5 @@ Suy nghĩ của riêng tôi về điều này: ***Đúng, tôi có một nguồn
 ![](https://containerd.io/img/architecture.png)
 # Type 66:
 ```
-Go
+Go yeah
 ```
