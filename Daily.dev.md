@@ -507,6 +507,16 @@ Suy nghĩ của riêng tôi về điều này: ***Đúng, tôi có một nguồn
 ***Docker***
 ![](https://containerd.io/img/architecture.png)
 # Type 66:
+Sau chuyến đi chơi thật nhiều niềm vui và kỉ niêm cùng các anh chị tại công ty, tôi rút ra được 1 điều:
+***Có 1 thói quen xấu đang rình rập, đó là "Bỏ qua sự kích thích tinh thần"***
 ```
-Go yeah
+Khi các nhà phát triển ngừng nghiên cứu để tìm kiếm kiến ​​thức mới hoặc để kích thích trí tuệ bản thân,
+nguy cơ trì trệ nhận thức sẽ rình rập.
+Kỹ năng giải quyết vấn đề thấp, năng lực sáng tạo giảm, thậm chí nguy cơ suy giảm nhận thức cao hơn, dần dần làm giảm sự kích thích tinh thần.
+```
+```
+Tham gia vào các hoạt động học tập khác nhau - ví dụ, thông qua việc đọc sách,
+thực hiện các sở thích khác hoặc khám phá các lĩnh vực mới, giúp bộ não luôn hoạt bát và nhanh nhạy.
+Học tập liên tục và kích thích trí tuệ chính xác là những gì có thể
+được sử dụng để duy trì hoạt động nhận thức lành mạnh và nâng cao hiệu suất tinh thần.
 ```
