@@ -92,3 +92,8 @@ Bất cứ điều gì bạn muốn hoàn thành – thực hiện một dự á
 học một kỹ năng mới, khởi nghiệp kinh doanh – đều yêu cầu tìm kiếm và sử dụng thông tin phù hợp.
 Thành công nghề nghiệp và chất lượng cuộc sống của bạn phụ thuộc trực tiếp vào khả năng quản lý thông tin hiệu quả của bạn.
 ```
+# Type 8:
+```
+Tuy nhiên, có một nhược điểm: mọi thay đổi trong cách chúng ta sử dụng công nghệ cũng đòi hỏi phải thay đổi cách chúng ta suy nghĩ.
+Để tận dụng đúng cách sức mạnh của Bộ não thứ hai, chúng ta cần có mối quan hệ mới với thông tin, công nghệ và thậm chí với chính mình.
+```
