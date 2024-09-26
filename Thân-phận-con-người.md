@@ -84,5 +84,11 @@ Quyển sách ấy tên là: Tạm biệt Trai ngoan
 ```
 # Type 6:
 ```
-Chuẩn bị cho thời khắc đẩy sy
+Chuẩn bị cho thời khắc đẩy suy nghĩ đến cực hạn
+```
+# Type 7:
+```
+Bất cứ điều gì bạn muốn hoàn thành – thực hiện một dự án tại nơi làm việc, tìm một công việc mới,
+học một kỹ năng mới, khởi nghiệp kinh doanh – đều yêu cầu tìm kiếm và sử dụng thông tin phù hợp.
+Thành công nghề nghiệp và chất lượng cuộc sống của bạn phụ thuộc trực tiếp vào khả năng quản lý thông tin hiệu quả của bạn.
 ```
