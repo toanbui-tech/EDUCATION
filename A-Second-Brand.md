@@ -24,3 +24,13 @@ Chúng thuộc về nỗ lực không ngừng để hiểu mọi thứ, vì th�
 và bằng cách ghi lại những bài đọc của mình, bạn đã tạo ra một cuốn sách của riêng mình,
 một cuốn sách mang dấu ấn cá tính Ul của bạn.
 ```
+# Type 4:
+```
+Thay vì sử dụng lượng nội dung ngày càng lớn, chúng ta có thể thực hiện một cách tiếp cận kiên nhẫn và chu đáo hơn,
+khuyến khích việc đọc lại, sắp xếp lại và tìm hiểu các hàm ý của ý tưởng theo thời gian. Điều này không chỉ có thể dẫn đến
+nhiều cuộc thảo luận dân sự hơn về các chủ đề quan trọng trong ngày;
+nó cũng có thể bảo vệ sức khỏe tinh thần của chúng ta và chữa lành sự chú ý bị chia cắt của chúng ta.
+Nhưng đây không chỉ đơn giản là sự quay trở lại quá khứ.
+Bây giờ chúng ta có cơ hội nâng cao thói quen sử dụng sách thông thường cho thời kỳ hiện đại.
+Chúng ta có cơ hội biến thực tiễn lịch sử đó thành một thứ gì đó linh hoạt và thuận tiện hơn nhiều.
+```
