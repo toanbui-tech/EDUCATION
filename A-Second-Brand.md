@@ -13,3 +13,14 @@ Tôi liệt kê những phương pháp điều trị nào đã giúp ích và ph
 Tôi viết ra những gì tôi muốn và không muốn, những gì tôi sẵn sàng hy sinh và những gì tôi không,
 cũng như việc thoát khỏi thế giới đau đớn mà tôi cảm thấy bị mắc kẹt bên trong có ý nghĩa như thế nào đối với tôi.
 ```
+# Type 3:
+```
+Được phổ biến trong thời kỳ quá tải thông tin trước đó, Cách mạng Công nghiệp thế kỷ 18 và đầu thế kỷ 19,
+cuốn sách thông thường không chỉ là một cuốn nhật ký hay nhật ký ghi lại những suy ngẫm cá nhân.
+Đó là một công cụ học tập mà tầng lớp có học thức sử dụng để hiểu về một thế giới đang thay đổi nhanh chóng và vị trí của họ trong đó.
+
+Do đó, đọc và viết là những hoạt động không thể tách rời.
+Chúng thuộc về nỗ lực không ngừng để hiểu mọi thứ, vì thế giới đầy rẫy những dấu hiệu: bạn có thể đọc theo cách của mình;
+và bằng cách ghi lại những bài đọc của mình, bạn đã tạo ra một cuốn sách của riêng mình,
+một cuốn sách mang dấu ấn cá tính Ul của bạn.
+```
