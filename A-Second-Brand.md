@@ -34,3 +34,14 @@ Nhưng đây không chỉ đơn giản là sự quay trở lại quá khứ.
 Bây giờ chúng ta có cơ hội nâng cao thói quen sử dụng sách thông thường cho thời kỳ hiện đại.
 Chúng ta có cơ hội biến thực tiễn lịch sử đó thành một thứ gì đó linh hoạt và thuận tiện hơn nhiều.
 ```
+# Type 5:
+```
+Cho dù bạn quyết định sử dụng nó như thế nào,
+Bộ não thứ hai của bạn là một bộ sưu tập kiến ​​thức riêng tư được thiết kế
+để phục vụ cho việc học tập và phát triển suốt đời chứ không chỉ cho một trường hợp sử dụng duy nhất.
+Đó là phòng thí nghiệm nơi bạn có thể phát triển và hoàn thiện suy nghĩ của mình trong sự cô độc
+trước khi chia sẻ nó với người khác. Một studio nơi bạn có thể thử nghiệm các ý tưởng cho đến khi
+chúng sẵn sàng được đưa vào sử dụng ở thế giới bên ngoài.
+Một bảng trắng nơi bạn có thể phác thảo ý tưởng của mình và cộng tác với những người khác về chúng.
+```
+***Vậy thì đối với mình, quản lý thông tin Phục hưng gia đạo, sức mạnh thể lực, ... Mình sẽ tạo ra hệ thống đó như thế nào?***
