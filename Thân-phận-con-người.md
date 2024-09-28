@@ -97,3 +97,10 @@ Thành công nghề nghiệp và chất lượng cuộc sống của bạn phụ
 Tuy nhiên, có một nhược điểm: mọi thay đổi trong cách chúng ta sử dụng công nghệ cũng đòi hỏi phải thay đổi cách chúng ta suy nghĩ.
 Để tận dụng đúng cách sức mạnh của Bộ não thứ hai, chúng ta cần có mối quan hệ mới với thông tin, công nghệ và thậm chí với chính mình.
 ```
+# Type 9:
+```
+Thứ gì có thể vượt qua cả không gian và thời gian?
+Đó chính là tình yêu
+Một loại hormone tình yêu được tiết ra, làm bản thân cảm thấy tràn đầy năng lượng, nhựa sống, âu đó có phải thứ gọi là ý nghĩa của việc trở thành một con người?
+Một con người, khi chưa biết đến tình yêu, khi biết đến tình yêu, và khi đánh mất đi tình yêu sâu đậm đó, con người sau đó rồi sẽ như thế nào?
+```
