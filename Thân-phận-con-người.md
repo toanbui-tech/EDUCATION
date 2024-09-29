@@ -104,3 +104,10 @@ Thứ gì có thể vượt qua cả không gian và thời gian?
 Một loại hormone tình yêu được tiết ra, làm bản thân cảm thấy tràn đầy năng lượng, nhựa sống, âu đó có phải thứ gọi là ý nghĩa của việc trở thành một con người?
 Một con người, khi chưa biết đến tình yêu, khi biết đến tình yêu, và khi đánh mất đi tình yêu sâu đậm đó, con người sau đó rồi sẽ như thế nào?
 ```
+# Type 10:
+```
+Làm cách nào để xoay chuyển càn khôn bây giờ?
+Trước tiên là có được minh triết về thu thập thông tin cho bản thân
+Nắm được quy tắc, áp dụng vào công việc và năng lực suy nghĩ của bản thân
+Đây là phát súng đầu tiên
+```
