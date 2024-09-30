@@ -120,3 +120,7 @@ nắm lấy cơ hội xây dựng 1 project cho khách hàng, tất cả mọi t
 đều sẽ tham gia, thế là có nguồn thu nhập lẫn kinh nghiệm.
 ```
 ***Mình suy nghĩ một lúc về điều này, và điều này đã gợi lên cho mình một ý tưởng mới cho con đường sự nghiệp của mình***
+# Type 12:
+```
+
+```
