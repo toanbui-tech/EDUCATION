@@ -111,3 +111,12 @@ Trước tiên là có được minh triết về thu thập thông tin cho bả
 Nắm được quy tắc, áp dụng vào công việc và năng lực suy nghĩ của bản thân
 Đây là phát súng đầu tiên
 ```
+# Type 11:
+```
+Tôi may mắn biết đến 1 bạn cũng bằng tuổi tôi, đã làm nhiều dự án nhỏ kiểu freelance,
+trong suốt quãng thời gian học đại học nằm ngủ ở phòng nghiên cứu của trường
+Bạn ấy giờ đấy đã có một team, 1 team không thường trực, nhưng mỗi khi mỗi người trong team
+nắm lấy cơ hội xây dựng 1 project cho khách hàng, tất cả mọi thành viên trong team
+đều sẽ tham gia, thế là có nguồn thu nhập lẫn kinh nghiệm.
+```
+***Mình suy nghĩ một lúc về điều này, và điều này đã gợi lên cho mình một ý tưởng mới cho con đường sự nghiệp của mình***
