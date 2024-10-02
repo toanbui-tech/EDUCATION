@@ -129,3 +129,10 @@ một người quản lý dự án trích dẫn một số tiền lệ quan tr�
 Sự nghiệp và công việc kinh doanh của chúng ta phụ thuộc hơn bao giờ hết vào khả năng
 của chúng ta trong việc thúc đẩy một quan điểm cụ thể và thuyết phục người khác chấp nhận nó.
 ```
+# Type 13:
+```
+Quan trọng nhất, đừng mắc vào cái bẫy của chủ nghĩa cầu toàn:
+nhấn mạnh rằng bạn phải có ứng dụng “hoàn hảo” với bộ tính năng chính xác trước khi ghi chú.
+Vấn đề không phải là có những công cụ hoàn hảo—mà là có một bộ công cụ đáng tin cậy
+mà bạn có thể tin cậy và biết rằng bạn luôn có thể thay đổi chúng sau này.
+```
