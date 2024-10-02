@@ -122,5 +122,10 @@ nắm lấy cơ hội xây dựng 1 project cho khách hàng, tất cả mọi t
 ***Mình suy nghĩ một lúc về điều này, và điều này đã gợi lên cho mình một ý tưởng mới cho con đường sự nghiệp của mình***
 # Type 12:
 ```
-
+Nói cách khác, những công việc có nhiều khả năng được giữ lại nhất là những công việc liên quan đến việc thúc đẩy hoặc bảo vệ một quan điểm cụ thể.
+Hãy nghĩ đến việc một nhà tổ chức gây quỹ chia sẻ những câu chuyện về tác động mà tổ chức phi lợi nhuận của họ đã tạo ra,
+một nhà nghiên cứu sử dụng dữ liệu để chứng minh cho diễn giải của họ về một thử nghiệm hoặc
+một người quản lý dự án trích dẫn một số tiền lệ quan trọng để hỗ trợ cho quyết định.
+Sự nghiệp và công việc kinh doanh của chúng ta phụ thuộc hơn bao giờ hết vào khả năng
+của chúng ta trong việc thúc đẩy một quan điểm cụ thể và thuyết phục người khác chấp nhận nó.
 ```
