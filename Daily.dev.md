@@ -526,3 +526,8 @@ Tôi nhận thấy mình làm việc rất hiệu quả trong việc sửa lỗi
 Một trong những điều bạn học được ở Hải quân: Chậm mà mượt, Mượt mà nhanh
 Đó là về việc đi chậm cuối cùng lại là cách để đi nhanh.
 ```
+# Type 68:
+```
+Bằng cách liên kết tất cả các bên liên quan, ý tôi là đảm bảo rằng mọi người đều có cùng quan điểm về định nghĩa hoàn thành của dự án nghĩa là gì.
+Bằng cách dành nhiều thời gian hơn để lập kế hoạch và nghiên cứu trước, bạn cũng sẽ có thể đưa ra ước tính tốt hơn cho dự án.
+```
