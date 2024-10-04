@@ -544,3 +544,6 @@ Hệ thống có rất nhiều bộ phận chuyển động nên bạn cần ph�
 Và nếu bạn chỉ giới hạn bản thân ở phần mềm, bạn sẽ không hiệu quả.
 Tìm hiểu về mạng, bảo mật, ảo hóa, vùng chứa, v.v. Chúng đều là những điểm thất bại tiềm ẩn.
 ```
+# Type 70:
+```
+```
