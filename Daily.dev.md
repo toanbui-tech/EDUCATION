@@ -553,3 +553,6 @@ Tìm hiểu về mạng, bảo mật, ảo hóa, vùng chứa, v.v. Chúng đề
 # Type 72:
 ```
 ```
+# Type 73:
+```
+```
