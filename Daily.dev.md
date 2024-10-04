@@ -531,3 +531,16 @@ Một trong những điều bạn học được ở Hải quân: Chậm mà mư
 Bằng cách liên kết tất cả các bên liên quan, ý tôi là đảm bảo rằng mọi người đều có cùng quan điểm về định nghĩa hoàn thành của dự án nghĩa là gì.
 Bằng cách dành nhiều thời gian hơn để lập kế hoạch và nghiên cứu trước, bạn cũng sẽ có thể đưa ra ước tính tốt hơn cho dự án.
 ```
+# Type 69:
+```
+Rằng các kỹ sư phần mềm đang ở trong “công việc kinh doanh lỗi”.
+Điều đó có nghĩa là kỹ thuật của tất cả các lĩnh vực luôn luôn xử lý các lỗi và sai sót.
+Tốc độ giải quyết những sai lầm này sẽ giúp bạn tách biệt khỏi đám đông.
+
+Đối với công nghệ phần mềm, lỗi xuất hiện rất nhanh và dữ dội.
+Một số là của bạn, một số là đồng đội của bạn mà bạn phụ thuộc vào.
+Hệ thống có rất nhiều bộ phận chuyển động nên bạn cần phải tận hưởng thử thách của lỗi và lao vào.
+
+Và nếu bạn chỉ giới hạn bản thân ở phần mềm, bạn sẽ không hiệu quả.
+Tìm hiểu về mạng, bảo mật, ảo hóa, vùng chứa, v.v. Chúng đều là những điểm thất bại tiềm ẩn.
+```
