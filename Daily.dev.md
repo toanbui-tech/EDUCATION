@@ -520,3 +520,9 @@ thực hiện các sở thích khác hoặc khám phá các lĩnh vực mới, g
 Học tập liên tục và kích thích trí tuệ chính xác là những gì có thể
 được sử dụng để duy trì hoạt động nhận thức lành mạnh và nâng cao hiệu suất tinh thần.
 ```
+# Type 67:
+```
+Tôi nhận thấy mình làm việc rất hiệu quả trong việc sửa lỗi khi tôi thư giãn và chỉ tập trung vào việc tìm hiểu TẠI SAO vấn đề lại xảy ra.
+Một trong những điều bạn học được ở Hải quân: Chậm mà mượt, Mượt mà nhanh
+Đó là về việc đi chậm cuối cùng lại là cách để đi nhanh.
+```
