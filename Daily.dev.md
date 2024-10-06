@@ -558,6 +558,9 @@ Sự thay đổi thực sự không xảy ra khi chúng ta hướng đến việ
 ```
 # Type 72:
 ```
+Vì vậy, nếu chúng ta muốn trở thành một nhà phát triển phần mềm (hoặc kiến ​​trúc sư) chuyên nghiệp thì sự thay đổi thực sự,
+lâu dài sẽ xảy ra khi chúng ta chuyển trọng tâm từ những gì chúng ta muốn đạt được sang con người chúng ta muốn trở thành.
+Đó không phải là việc đặt ra các mục tiêu như “Tôi muốn học một ngôn ngữ lập trình mới” mà là việc áp dụng danh tính của một nhà phát triển phần mềm chuyên nghiệp.
 ```
 # Type 73:
 ```
