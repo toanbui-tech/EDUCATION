@@ -564,6 +564,9 @@ lâu dài sẽ xảy ra khi chúng ta chuyển trọng tâm từ những gì ch�
 ```
 # Type 73:
 ```
+Mỗi hành động nhỏ mà bạn thực hiện để phát triển kỹ năng phát triển phần mềm của mình đều là một cuộc bỏ phiếu cho danh tính mới của bạn.
+Bằng cách củng cố danh tính đó thông qua thực hành hàng ngày, chẳng hạn như viết mã,
+đọc tài liệu hoặc đóng góp cho các dự án nguồn mở, bạn đang củng cố niềm tin của mình vào danh tính đó.
 ```
 # Type 74:
 ```
