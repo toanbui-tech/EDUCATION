@@ -569,5 +569,5 @@ Bằng cách củng cố danh tính đó thông qua thực hành hàng ngày, ch
 đọc tài liệu hoặc đóng góp cho các dự án nguồn mở, bạn đang củng cố niềm tin của mình vào danh tính đó.
 ```
 # Type 74:
-```
-```
+https://bartwullems.blogspot.com/2024/09/becoming-professional-software.html?ref=dailydev
+
