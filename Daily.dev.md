@@ -546,9 +546,15 @@ Tìm hiểu về mạng, bảo mật, ảo hóa, vùng chứa, v.v. Chúng đề
 ```
 # Type 70:
 ```
+Điều tôi nhận ra là vấn đề thực sự không phải là thiếu kỹ năng hay kiến ​​thức; đó là một vấn đề về tư duy.
+Các nhà phát triển có thể biết các phương pháp hay nhất là gì,
+nhưng không phải lúc nào họ cũng coi mình là kiểu nhà phát triển tuân theo chúng một cách tôn giáo, bất kể hoàn cảnh nào.
+Điều này gắn liền với một cái nhìn sâu sắc mà tôi có được khi đọc Thói quen nguyên tử của James Clear
 ```
 # Type 71:
 ```
+Sự thay đổi thực sự không xảy ra khi chúng ta hướng đến việc đạt được những mục tiêu cụ thể mà khi chúng ta thay đổi bản sắc của mình.
+Đối với các nhà phát triển, điều này có nghĩa là chuyển từ “Tôi cần viết bài kiểm tra đơn vị” sang “Tôi là kiểu nhà phát triển luôn viết bài kiểm tra đơn vị”.
 ```
 # Type 72:
 ```
