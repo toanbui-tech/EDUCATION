@@ -141,3 +141,4 @@ Rõ hơn nữa:
 - Gia đình tôi gầy dựng sau này sẽ là gì và tôi thích nó có xu hướng như thế nào?
 - Mức sống sau này của tôi sẽ là gì và tôi thích nó có xu hướng như thế nào?
 - Quyền lực tự thân sau này của bản thân tôi sẽ là gì và tôi thích nó có xu hướng như thế nào?
+# Type 15:
