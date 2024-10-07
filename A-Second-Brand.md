@@ -45,3 +45,23 @@ chúng sẵn sàng được đưa vào sử dụng ở thế giới bên ngoài.
 Một bảng trắng nơi bạn có thể phác thảo ý tưởng của mình và cộng tác với những người khác về chúng.
 ```
 ***Vậy thì đối với mình, quản lý thông tin Phục hưng gia đạo, sức mạnh thể lực, ... Mình sẽ tạo ra hệ thống đó như thế nào?***
+# Type 6:
+```
+Thông thường, những ý tưởng gây được tiếng vang là những ý tưởng khác thường, phản trực giác, thú vị hoặc có khả năng hữu ích nhất.
+Đừng đưa ra quyết định mang tính phân tích và đừng lo lắng
+về việc tại sao chính xác nó lại gây được tiếng vang
+—chỉ cần nhìn vào bên trong để tìm cảm giác thích thú, tò mò,
+thắc mắc hoặc phấn khích và hãy coi đó là tín hiệu cho biết khi nào bạn nên ghi lại một đoạn văn,
+một hình ảnh, một câu trích dẫn hoặc một sự thật.
+```
+# Type 7:
+```
+CODE là một bản đồ để điều hướng các luồng thông tin vô tận mà chúng ta đang phải đối mặt hàng ngày.
+Đó là một cách tiếp cận hiện đại để tạo ra một cuốn sách phổ biến,
+phù hợp với nhu cầu của Thời đại Thông tin.
+Giống như cách chúng ta có một mã di truyền quyết định chiều cao và màu mắt,
+chúng ta cũng có một mã sáng tạo được gắn chặt vào trí tưởng tượng của mình.
+Nó định hình cách chúng ta suy nghĩ và cách chúng ta tương tác với thế giới.
+Nó được phản ánh trong mã phần mềm chạy các ứng dụng mà chúng ta sử dụng để xử lý thông tin.
+Nó cũng là một mật mã bí mật trong hầu hết lịch sử - giờ đã đến lúc tiết lộ cách thức hoạt động của nó.
+```
