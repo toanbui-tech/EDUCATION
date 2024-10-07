@@ -142,3 +142,6 @@ Rõ hơn nữa:
 - Mức sống sau này của tôi sẽ là gì và tôi thích nó có xu hướng như thế nào?
 - Quyền lực tự thân sau này của bản thân tôi sẽ là gì và tôi thích nó có xu hướng như thế nào?
 # Type 15:
+```
+Cuộc đấu tranh của những người cùng chí hướng: 1945, 1975, 2024
+```
