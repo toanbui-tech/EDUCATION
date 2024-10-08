@@ -145,3 +145,7 @@ Rõ hơn nữa:
 ```
 Cuộc đấu tranh của những người cùng chí hướng: 1945, 1975, 2024
 ```
+# Type 16:
+```
+
+```
