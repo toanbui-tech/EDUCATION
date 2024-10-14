@@ -570,4 +570,6 @@ Bằng cách củng cố danh tính đó thông qua thực hành hàng ngày, ch
 ```
 # Type 74:
 https://bartwullems.blogspot.com/2024/09/becoming-professional-software.html?ref=dailydev
-
+# Type 75:
+***The Crucial Difference Between Nice and Kind Leadership***
+![I will become master this skill and control it](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ebf7129-8186-495f-93d9-748dde53e7ba_3558x2206.png)
