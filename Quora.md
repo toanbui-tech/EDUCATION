@@ -114,3 +114,9 @@ tôi cũng muốn biết tại sao mọi thứ lại như vậy, điểm thất 
 Vì vậy, tôi muốn nói rằng một điều khiến các kỹ sư trở nên khác biệt là xu hướng phân tích,
 thu thập dữ liệu và đưa ra các lý thuyết thay vì chỉ nói, "Thật kỳ lạ".
 ```
+# Type 15:
+```
+Theo quan điểm của tôi, logic quan trọng hơn công nghệ.
+Bạn phải có kỹ năng logic tốt. Nếu bạn có kỹ năng logic tốt, thì bạn có thể dễ dàng học công nghệ mới.
+Bạn cũng có thể học nhiều công nghệ đang thịnh hành.
+```
