@@ -573,3 +573,5 @@ https://bartwullems.blogspot.com/2024/09/becoming-professional-software.html?ref
 # Type 75:
 ***The Crucial Difference Between Nice and Kind Leadership***
 ![I will become master this skill and control it](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ebf7129-8186-495f-93d9-748dde53e7ba_3558x2206.png)
+# Type 76:
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F300e1cb0-9691-4516-8342-b2586595b771_1280x1562.gif)
