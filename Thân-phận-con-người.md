@@ -147,7 +147,8 @@ Cuộc đấu tranh của những người cùng chí hướng: 1945, 1975, 2024
 ```
 # Type 16:
 ```
-
+Thế giới hiện đại bên ngoài đòi hỏi bạn phải cảm thấy không an toàn nên bạn sẽ tiêu thụ hàng hóa và dịch vụ vượt quá mức bạn thực sự cần để được an toàn.
+Chấp nhận rằng cảm giác an toàn đến từ trạng thái tinh thần bên trong của chúng ta và cách chúng ta quản lý suy nghĩ, cảm xúc và cảm xúc của mình.
 ```
 # Type 17:
 ```
