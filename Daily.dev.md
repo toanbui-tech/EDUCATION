@@ -575,3 +575,13 @@ https://bartwullems.blogspot.com/2024/09/becoming-professional-software.html?ref
 ![I will become master this skill and control it](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ebf7129-8186-495f-93d9-748dde53e7ba_3558x2206.png)
 # Type 76:
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F300e1cb0-9691-4516-8342-b2586595b771_1280x1562.gif)
+# Type 77:
+```
+Đoạn văn nói về việc tránh Goodhart's Law,
+tức là không nên đánh giá một đội ngũ chỉ dựa trên một chỉ số duy nhất, vì điều này có thể khiến nhóm tối ưu hóa chỉ để cải thiện chỉ số đó mà không đạt được mục tiêu thực sự.
+Thay vào đó, nên đánh giá đội ngũ dựa trên nhiều yếu tố: con người, quy trình, và kỹ thuật.
+
+Ví dụ:
+Nếu công ty chỉ đo lường hiệu suất đội ngũ qua số lượng tính năng ra mắt,
+nhóm có thể cố gắng tung ra nhiều tính năng mà không quan tâm đến chất lượng hoặc tính ổn định của sản phẩm.
+```
