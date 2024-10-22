@@ -585,3 +585,6 @@ Ví dụ:
 Nếu công ty chỉ đo lường hiệu suất đội ngũ qua số lượng tính năng ra mắt,
 nhóm có thể cố gắng tung ra nhiều tính năng mà không quan tâm đến chất lượng hoặc tính ổn định của sản phẩm.
 ```
+# Type 78:
+```
+```
