@@ -9,3 +9,6 @@ displayed on our computer screens at the top. Moving up each level in the hierar
 Code is structured—is probably not as hard as most people might think. There is certainly a lot going
 on inside the modern computer, but it is a lot of very common and simple operations.
 ```
+# Type 2:
+```
+```
