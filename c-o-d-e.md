@@ -13,3 +13,6 @@ on inside the modern computer, but it is a lot of very common and simple operati
 ```
 Athough cpomputers today are more  complex than the computer of 25 years or 50 years ago, they are still fundamentally the same.
 ```
+# Type 3:
+```
+```
