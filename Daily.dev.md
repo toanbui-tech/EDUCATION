@@ -586,5 +586,5 @@ Nếu công ty chỉ đo lường hiệu suất đội ngũ qua số lượng t�
 nhóm có thể cố gắng tung ra nhiều tính năng mà không quan tâm đến chất lượng hoặc tính ổn định của sản phẩm.
 ```
 # Type 78:
-```
-```
+**Eng org seniority-mix model.**
+![](https://lethain.com/static/blog/strategy/eng-costs-sketch-4.png)
