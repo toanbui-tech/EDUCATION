@@ -588,3 +588,6 @@ nhóm có thể cố gắng tung ra nhiều tính năng mà không quan tâm đ�
 # Type 78:
 **Eng org seniority-mix model.**
 ![](https://lethain.com/static/blog/strategy/eng-costs-sketch-4.png)
+# Type 79:
+```
+```
