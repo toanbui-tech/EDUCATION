@@ -588,6 +588,7 @@ nhóm có thể cố gắng tung ra nhiều tính năng mà không quan tâm đ�
 # Type 78:
 **Eng org seniority-mix model.**
 ![](https://lethain.com/static/blog/strategy/eng-costs-sketch-4.png)
-# Type 79:
+# Type 79: 37 Tips from a Senior Frontend Developer
 ```
+
 ```
