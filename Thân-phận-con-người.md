@@ -32,7 +32,7 @@ Và ước mơ đôi khi nó sẽ khiến tôi chịu nhiều nỗi thống kh�
 Nhưng dù vậy, tôi vẫn không thể từ bỏ ước mơ này, ước mơ "PHỤC HƯNG GIA ĐẠO",
 Nó là giải pháp, là nền móng đầu tiên tôi dựng nên để xây dựng thế hệ hậu duệ ưu tú sau này,
 Một thế hệ không còn chịu sự thống khổ do gia đạo rối ren lộn xộn nữa,
-Dòng họ con cháu sẽ đều là những người tài đức,
+Dòng họ con cháu đều sẽ là những người tài đức,
 Lề lối trên dưới, Lễ Kính Hiếu Nghĩa đều được gầy dựng lại hoàn toàn.
 
 Và nó làm tôi đau đáu, mệt nhoài trong giai đoạn đầu, khi mà tôi lưỡng lự không biết có dám đi con đường này hay không,
