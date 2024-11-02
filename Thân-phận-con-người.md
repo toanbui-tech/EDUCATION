@@ -48,8 +48,10 @@ Tôi may mắn bắt được khoảnh khắc đẹp ấy, nó đẹp vô cùng,
 Bắt được tia cảm xúc hạnh phúc trong ánh mắt của cô gái với chàng trai kia.
 Đây là cuộc sống? Nó thật tuyệt
 Rồi trong chốc lát tôi quyết định,
-Sẽ hạ quyết tâm, thực hiện ước mơ "Phục Hưng Gia Đạo".
+Sẽ hạ quyết tâm, thực hiện ước mơ "PHỤC HƯNG GIA ĐẠO".
 
+=====2/11/2024
+Tôi đang tiến gần tới ngã rẽ quan trọng. Giờ là lúc đẩy trạng thái suy ngẫm và phản tỉnh lên mức cực hạn. Tôi quyết tâm tìm ra thứ đó, thứ sẽ giúp tôi Tất Thành 
 
 ```
 # Type 3:
