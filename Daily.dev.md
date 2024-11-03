@@ -592,3 +592,6 @@ nhóm có thể cố gắng tung ra nhiều tính năng mà không quan tâm đ�
 ```
 
 ```
+# Type 80:
+```
+```
