@@ -592,6 +592,9 @@ nhóm có thể cố gắng tung ra nhiều tính năng mà không quan tâm đ�
 ```
 
 ```
-# Type 80:
-```
+# Type 80: Optimize Docker Image
+```java
+- Smaller Image Size
+- Faster Deployment and Scaling
+- Reduced Attack Surface: By excluding unnecessary tools and libraries, the optimized image is more secure and less prone to vulnerabilities.
 ```
