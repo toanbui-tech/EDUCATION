@@ -598,3 +598,6 @@ nhóm có thể cố gắng tung ra nhiều tính năng mà không quan tâm đ�
 - Faster Deployment and Scaling
 - Reduced Attack Surface: By excluding unnecessary tools and libraries, the optimized image is more secure and less prone to vulnerabilities.
 ```
+# Type 81:
+```
+```
