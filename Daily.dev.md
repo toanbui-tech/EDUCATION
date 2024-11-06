@@ -603,3 +603,17 @@ https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
 ```
 Chu kì phản hồi là gì
 ```
+
+# Type 82:
+```
+Không có gì đáng ngạc nhiên khi phần mềm không giống như trò chơi bowling.
+Trong bowling, chu kỳ phản hồi theo thứ tự phút, trong khi trong phần mềm, chu kỳ phản hồi có xu hướng theo thứ tự tháng, nếu không muốn nói là năm.
+Và điều tôi đang nói đến với phần mềm không phải là chu trình phản hồi của quá trình biên dịch, chạy hoặc kiểm tra đơn vị, tính bằng phút hoặc giây, mà là dự án.
+```
+```
+Trong suốt thời gian tồn tại của một dự án,
+nhà phát triển sẽ có được kinh nghiệm viết mã, kiểm soát nguồn, sửa đổi, thử nghiệm và tuân thủ các quyết định về thiết kế và kiến ​​trúc trước đó trong các giai đoạn bảo trì.
+Với tất cả những gì tôi vừa mô tả, một nhà phát triển thật may mắn khi có lần thử việc đầu tiên kéo dài chưa đầy sáu tháng,
+điều đó có nghĩa là, sau năm năm hoạt động trong ngành, có thể họ có mười vết nứt trong quá trình phát triển ứng dụng.
+(Đây là mức trung bình–một số sẽ bị mắc kẹt trên một cái duy nhất trong suốt thời gian này trong khi những người khác sẽ có hàng chục cái.)
+```
