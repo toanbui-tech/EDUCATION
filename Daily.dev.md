@@ -601,4 +601,5 @@ nhóm có thể cố gắng tung ra nhiều tính năng mà không quan tâm đ�
 # Type 81:
 https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
 ```
+Chu kì phản hồi là gì
 ```
