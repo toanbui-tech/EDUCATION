@@ -617,3 +617,8 @@ Với tất cả những gì tôi vừa mô tả, một nhà phát triển thậ
 điều đó có nghĩa là, sau năm năm hoạt động trong ngành, có thể họ có mười vết nứt trong quá trình phát triển ứng dụng.
 (Đây là mức trung bình–một số sẽ bị mắc kẹt trên một cái duy nhất trong suốt thời gian này trong khi những người khác sẽ có hàng chục cái.)
 ```
+# Type 83:
+Build profile gitHub
+```
+https://www.profileme.dev/create-profile
+```
