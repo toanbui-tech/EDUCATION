@@ -622,3 +622,6 @@ Build profile gitHub
 ```
 https://www.profileme.dev/create-profile
 ```
+# Type 84:
+```
+```
