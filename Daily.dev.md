@@ -635,3 +635,6 @@ https://www.profileme.dev/create-profile
 # Type 87:
 ```
 ```
+# Type 88:
+```
+```
