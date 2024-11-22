@@ -637,6 +637,11 @@ Và đó là cách sẽ khiến mọi thứ trở nên tan tành sau này
 ```
 # Type 86:
 ```
+Nếu không có lộ trình rõ ràng, hầu hết các nhà phát triển sẽ rơi vào the coding trap:
+- Bạn tăng gấp đôi ngôn ngữ lập trình hiện tại của mình để trở thành một “chuyên gia
+- Bạn thêm nhiều công cụ hơn vào vành đai công cụ của mình như một ngôn ngữ lập trình mới, ấn tượng hơn (Có ai bị rỉ sét không?)
+- Bạn bị ám ảnh bởi chất lượng mã và viết mã không có lỗi
+- Bạn thắc mắc tại sao mình vẫn chưa được thăng chức
 ```
 # Type 87:
 ```
