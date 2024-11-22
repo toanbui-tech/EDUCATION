@@ -628,6 +628,10 @@ Có một buổi sáng dopamine thấp là cách để tập trung
 ```
 # Type 85:
 ```
+Chúng ta đi làm về, nằm dài trên ghế, mở ứng dụng xã hội yêu thích và cố gắng đánh lạc hướng bản thân khỏi những trách nhiệm trong cuộc sống.
+Chúng tôi biết những thói quen này sẽ không đưa chúng tôi đến gần hơn với mục tiêu của mình, nhưng chúng tôi đã có một ngày dài làm việc nên có vẻ như chúng tôi xứng đáng có thời gian này để thư giãn.
+
+Và đó là cách sẽ khiến mọi thứ trở nên tan tành sau này
 ```
 # Type 86:
 ```
