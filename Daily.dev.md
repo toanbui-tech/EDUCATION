@@ -645,6 +645,7 @@ Nếu không có lộ trình rõ ràng, hầu hết các nhà phát triển sẽ
 ```
 # Type 87:
 ```
+
 ```
 # Type 88:
 ```
@@ -665,5 +666,8 @@ Nếu không có lộ trình rõ ràng, hầu hết các nhà phát triển sẽ
 ```
 ```
 # Type 94:
+```
+```
+# Type 95:
 ```
 ```
