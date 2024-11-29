@@ -28,3 +28,7 @@ Nhưng hầu hết các mã thì không. Quả thực, hầu hết các mật m�
 ```js
 Không thể trao đổi thông tin một cách âm thầm từ xa trong bóng tối bằng lời nói hoặc giấy tờ. Do đó, mã Morse là một sự thay thế thuận tiện. Một mã sẽ hữu ích nếu nó phục vụ một mục đích mà không mã nào khác có thể làm được
 ```
+# Type 6:
+```js
+Như chúng ta sẽ thấy, nhiều loại mã khác nhau cũng được sử dụng trong máy tính để lưu trữ và truyền đạt các con số, âm thanh, âm nhạc, hình ảnh và phim. Máy tính không thể xử lý trực tiếp mã của con người vì máy tính không thể sao chép cách con người sử dụng mắt, tai, miệng và ngón tay. Tuy nhiên, một trong những xu hướng gần đây trong công nghệ máy tính là cho phép máy tính cá nhân để bàn của chúng ta thu thập, lưu trữ, thao tác và hiển thị tất cả các loại thông tin được sử dụng trong giao tiếp của con người, có thể là hình ảnh (văn bản và hình ảnh), âm thanh (lời nói, âm thanh). và âm nhạc) hoặc kết hợp cả hai (hoạt hình và phim). Tất cả các loại thông tin này đều yêu cầu riêng mã, giống như lời nói cần một bộ cơ quan của con người (miệng và tai) trong khi viết và đọc yêu cầu các bộ phận khác (tay và mắt). 
+```
