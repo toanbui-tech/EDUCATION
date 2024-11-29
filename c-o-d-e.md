@@ -17,3 +17,10 @@ Athough cpomputers today are more  complex than the computer of 25 years or 50 y
 ```
 After all, the impulse to communicate is one of the most human of traits.
 ```
+# Type 4:
+```js
+Mặc dù mã Morse hoàn toàn không liên quan gì đến máy tính, nhưng việc làm quen với bản chất của mã là bước sơ bộ cần thiết để đạt được sự hiểu biết sâu sắc về các ngôn ngữ ẩn và cấu trúc bên trong của phần cứng và phần mềm máy tính.
+Trong cuốn sách này, từ mã thường có nghĩa là một hệ thống truyền thông tin giữa con người và máy móc.
+Nói cách khác, mật mã cho phép bạn giao tiếp. Đôi khi chúng ta nghĩ mật mã là bí mật.
+Nhưng hầu hết các mã thì không. Quả thực, hầu hết các mật mã đều phải được hiểu rõ vì chúng là nền tảng trong giao tiếp của con người. 
+```
