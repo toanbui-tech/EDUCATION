@@ -24,3 +24,7 @@ Trong cuốn sách này, từ mã thường có nghĩa là một hệ thống tr
 Nói cách khác, mật mã cho phép bạn giao tiếp. Đôi khi chúng ta nghĩ mật mã là bí mật.
 Nhưng hầu hết các mã thì không. Quả thực, hầu hết các mật mã đều phải được hiểu rõ vì chúng là nền tảng trong giao tiếp của con người. 
 ```
+# Type 5:
+```js
+Không thể trao đổi thông tin một cách âm thầm từ xa trong bóng tối bằng lời nói hoặc giấy tờ. Do đó, mã Morse là một sự thay thế thuận tiện. Một mã sẽ hữu ích nếu nó phục vụ một mục đích mà không mã nào khác có thể làm được
+```
