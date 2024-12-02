@@ -40,3 +40,4 @@ Bảng cho thấy mỗi chữ cái được thể hiện bằng một loạt d�
 Tuy nhiên, chúng ta thực sự không thể gửi dấu chấm và dấu gạch ngang.
 Thay vào đó, các dấu chấm và dấu gạch ngang tương ứng với những lần nhấp nháy
 ```
+Đã đọc đến trang thứ 7, chưa đọc chữ nào của trang 7
