@@ -35,4 +35,8 @@ Như chúng ta sẽ thấy, nhiều loại mã khác nhau cũng được sử d�
 Đã đọc đến trang thứ 6, đoạn thứ 1
 # Type 7:
 ```
+Ngay cả bảng mã Morse hiển thị ở trang 4 cũng là một loại mã.
+Bảng cho thấy mỗi chữ cái được thể hiện bằng một loạt dấu chấm và dấu gạch ngang.
+Tuy nhiên, chúng ta thực sự không thể gửi dấu chấm và dấu gạch ngang.
+Thay vào đó, các dấu chấm và dấu gạch ngang tương ứng với những lần nhấp nháy
 ```
