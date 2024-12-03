@@ -645,7 +645,7 @@ Nếu không có lộ trình rõ ràng, hầu hết các nhà phát triển sẽ
 ```
 # Type 87:
 ```
-
+Đảm nhận những nhiệm vụ mà bạn có thể mang lại nhiều giá trị nhất cho công ty và cho chính mình (học tập).
 ```
 # Type 88:
 ```
