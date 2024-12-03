@@ -41,3 +41,14 @@ Tuy nhiên, chúng ta thực sự không thể gửi dấu chấm và dấu gạ
 Thay vào đó, các dấu chấm và dấu gạch ngang tương ứng với những lần nhấp nháy
 ```
 Đã đọc đến trang thứ 7, chưa đọc chữ nào của trang 7
+# Type 8:
+```
+Bạn sẽ thấy rằng việc gửi mã Morse của bạn và bạn bè sẽ dễ dàng hơn nhiều nếu bạn có một chiếc đèn pin được thiết kế riêng cho mục đích này.
+Ngoài công tắc trượt bật tắt thông thường, những đèn pin này còn bao gồm một công tắc nút bấm mà bạn chỉ cần nhấn và thả ra để bật và tắt đèn pin.
+Với một chút luyện tập, bạn có thể đạt được tốc độ gửi và nhận 5 hoặc 10 từ mỗi phút—vẫn chậm hơn nhiều so với tốc độ nói (khoảng 100 từ mỗi phút), nhưng chắc chắn là đủ
+```
+```
+Bạn sẽ thấy việc gửi lệnh cho máy tính thực hiện sẽ dễ dàng hơn nhiều nếu bạn có một công cụ được thiết kết riêng cho mục đích này(Ngôn ngữ lập trình).
+Với một chút luyện tập...
+```
+Đọc hết trang 7
