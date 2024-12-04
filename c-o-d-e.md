@@ -60,3 +60,5 @@ bạn cũng có thể sử dụng nó bằng giọng nói để thay thế cho l
 Tương tự như cách mã Morse biến ngôn ngữ viết thành dấu chấm và dấu gạch ngang, phiên bản nói của mã giảm giọng nói xuống chỉ còn hai nguyên âm.
 ```
 ***Từ khóa ở đây là hai. Hai kiểu chớp mắt, hai nguyên âm, hai thứ khác nhau, thực sự, có thể truyền tải mọi loại thông tin nếu có sự kết hợp phù hợp.***
+
+Đã đọc hết trang số 12
