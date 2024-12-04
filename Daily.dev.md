@@ -649,6 +649,10 @@ Nếu không có lộ trình rõ ràng, hầu hết các nhà phát triển sẽ
 ```
 # Type 88:
 ```
+Khó nhìn, đau và cứng khớp là một số nguyên nhân có thể khiến việc lập trình trở nên khó khăn hơn khi bạn già đi, Kate Gregory đã phát hiện ra.
+Nhưng chúng không phải là tất yếu và có những giải pháp như thay đổi phông chữ, sử dụng kính và sắp xếp lại cách bố trí văn phòng có thể giúp ích.
+Mối lo ngại về tinh thần của một số lập trình viên lớn tuổi bao gồm việc thiếu động lực và cảm giác hoài nghi.
+Theo Gregory, tập thể dục và ngủ ngon giúp duy trì những khả năng cần thiết của một nhà phát triển.
 ```
 # Type 89:
 ```
