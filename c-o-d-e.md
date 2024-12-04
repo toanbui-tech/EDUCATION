@@ -52,3 +52,11 @@ Bạn sẽ thấy việc gửi lệnh cho máy tính thực hiện sẽ dễ dà
 Với một chút luyện tập...
 ```
 Đọc hết trang 7
+# Type 9:
+```
+Cuối cùng, khi bạn và người bạn thân nhất của mình ghi nhớ mã Morse (vì đó là cách duy nhất bạn có thể thành thạo trong việc gửi và nhận nó),
+bạn cũng có thể sử dụng nó bằng giọng nói để thay thế cho lời nói thông thường.
+Để có tốc độ tối đa, bạn phát âm dấu chấm là dih (hoặc dit cho dấu chấm cuối cùng của một chữ cái) và dấu gạch ngang là dah.
+Tương tự như cách mã Morse biến ngôn ngữ viết thành dấu chấm và dấu gạch ngang, phiên bản nói của mã giảm giọng nói xuống chỉ còn hai nguyên âm.
+```
+***Từ khóa ở đây là hai. Hai kiểu chớp mắt, hai nguyên âm, hai thứ khác nhau, thực sự, có thể truyền tải mọi loại thông tin nếu có sự kết hợp phù hợp.***
