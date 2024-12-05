@@ -62,3 +62,10 @@ Tương tự như cách mã Morse biến ngôn ngữ viết thành dấu chấm 
 ***Từ khóa ở đây là hai. Hai kiểu chớp mắt, hai nguyên âm, hai thứ khác nhau, thực sự, có thể truyền tải mọi loại thông tin nếu có sự kết hợp phù hợp.***
 
 Đã đọc hết trang số 12
+# Type 10:
+```
+Nếu bạn nghĩ về điều đó, việc xây dựng một bảng như vậy có lẽ là cần thiết để xác định mã Morse ngay từ đầu.
+Đầu tiên, nó đảm bảo rằng bạn không mắc phải sai lầm ngớ ngẩn khi sử dụng cùng một mã cho hai chữ cái khác nhau! Thứ hai,
+bạn yên tâm sử dụng tất cả các mã có thể mà không tạo ra các chuỗi dấu chấm và dấu gạch ngang dài một cách không cần thiết
+```
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Morse-code-tree.svg/2560px-Morse-code-tree.svg.png)
