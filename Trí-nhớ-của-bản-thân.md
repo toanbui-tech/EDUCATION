@@ -1,0 +1,1 @@
+- Đối với kiến thức, sử dụng nó hoặc là mất nó, 1 trong 2
