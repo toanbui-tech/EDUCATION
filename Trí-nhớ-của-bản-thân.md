@@ -20,3 +20,24 @@
 ```
   Với tôi, tốc dộ suy nghĩ và sản xuất được code ở chất lượng vượt trội... chỉ là vấn đề nếu tôi lơ là một trong những điều ở gạch đầu dòng thứ hai. 
   Vấn đề lớn hơn của tôi là tránh lãng phí năng lượng. Làm thế nào tôi có thể thiết lập các vòng phản hồi thường xuyên để giữ cho mình di chuyển đúng hướng từ đầu đến cuối? Tôi quan tâm nhiều hơn đến hiệu quả lập trình hơn là tốc độ.
+
+# Có tồn tại tình trạng đọc "quá nhiều" không?
+```
+Tình trạng tê liệt phân tích xảy ra khi bạn có quá nhiều lựa chọn về một hành động cần thực hiện, tất cả đều có kết quả mơ hồ.
+
+Điều này xảy ra khi bạn có quá nhiều phương pháp có vẻ uy quyền cạnh tranh nhau để giành không gian trong đầu.
+
+Điều này tạo ra sự nhầm lẫn trong tâm trí. Một "sương mù chiến tranh", nếu đó là những gì bạn muốn gọi.
+
+Đến một thời điểm nhất định (đặc biệt là trong lĩnh vực tự lực), bạn sẽ gặp phải tình trạng lợi nhuận giảm dần.
+
+Bạn sẽ bắt đầu thấy rằng nhiều người khác nhau đang trình bày cùng một điều theo những cách khác nhau.
+
+Điều gì xảy ra khi bạn kết hợp tình trạng tê liệt khi phân tích và lợi nhuận giảm dần với nhau?
+
+Bạn sẽ lãng phí rất nhiều thời gian mà không bao giờ lấy lại được.
+
+Tệ hơn nữa, bạn sẽ bị mắc kẹt trong một hình thức thủ dâm tinh thần và lý thuyết hóa không có tác động hữu hình nào đến thế giới thực.
+
+Tốt hơn hết là bạn nên mua một cuốn sách và áp dụng phương pháp đó cho đến khi thành công.
+```
