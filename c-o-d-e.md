@@ -69,3 +69,11 @@ Nếu bạn nghĩ về điều đó, việc xây dựng một bảng như vậy 
 bạn yên tâm sử dụng tất cả các mã có thể mà không tạo ra các chuỗi dấu chấm và dấu gạch ngang dài một cách không cần thiết
 ```
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Morse-code-tree.svg/2560px-Morse-code-tree.svg.png)
+
+# Type 11:
+```
+Những gì chúng tôi đang làm bằng cách phân tích mã nhị phân là một bài tập đơn giản trong nhánh toán học được gọi là tổ hợp hoặc phân tích tổ hợp.
+Theo truyền thống, phân tích tổ hợp được sử dụng thường xuyên nhất trong các lĩnh vực xác suất và thống kê vì nó liên quan đến việc xác định số cách mà các thứ, như đồng xu và xúc xắc, có thể được kết hợp.
+Nhưng nó cũng giúp chúng ta hiểu cách các mã có thể được ghép lại với nhau và tách rời.
+```
+***Đang bàn về 0 và 1, sự liên kết, sự tách rời, sự sắp xếp phân bổ giữa 2 con số đó***
