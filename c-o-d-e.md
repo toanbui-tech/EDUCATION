@@ -77,3 +77,8 @@ Theo truyền thống, phân tích tổ hợp được sử dụng thường xuy
 Nhưng nó cũng giúp chúng ta hiểu cách các mã có thể được ghép lại với nhau và tách rời.
 ```
 ***Đang bàn về 0 và 1, sự liên kết, sự tách rời, sự sắp xếp phân bổ giữa 2 con số đó***
+# Type 12:
+```
+
+```
+Đã đọc đến: which would eventually kill him shortly after his 43rd birthday in 1852.
