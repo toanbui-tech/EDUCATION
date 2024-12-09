@@ -84,4 +84,10 @@ Nhưng nó cũng giúp chúng ta hiểu cách các mã có thể được ghép 
 Đã đọc đến: which would eventually kill him shortly after his 43rd birthday in 1852.
 # Type 12:
 ```
+Điều thú vị đối với chúng ta vào thời điểm này là các dấu chấm có dạng nhị phân.
+Một dấu chấm cụ thể có thể phẳng hoặc nổi lên.
+Điều đó có nghĩa là chúng ta có thể áp dụng những gì đã học về mã Morse và phân tích tổ hợp vào chữ nổi Braille.
+Chúng ta biết rằng có 6 chấm và mỗi chấm có thể phẳng hoặc nổi,
+vì vậy tổng số tổ hợp của 6 chấm phẳng và chấm nổi là 2 × 2 × 2 × 2 × 2 × 2, hoặc 26, hoặc 64.
 ```
+Đã đọc hết trang 17
