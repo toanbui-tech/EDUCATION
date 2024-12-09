@@ -82,3 +82,6 @@ Nhưng nó cũng giúp chúng ta hiểu cách các mã có thể được ghép 
 
 ```
 Đã đọc đến: which would eventually kill him shortly after his 43rd birthday in 1852.
+# Type 12:
+```
+```
