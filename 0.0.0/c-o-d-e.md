@@ -91,3 +91,8 @@ Chúng ta biết rằng có 6 chấm và mỗi chấm có thể phẳng hoặc n
 vì vậy tổng số tổ hợp của 6 chấm phẳng và chấm nổi là 2 × 2 × 2 × 2 × 2 × 2, hoặc 26, hoặc 64.
 ```
 Đã đọc hết trang 17
+# Type 13:
+```
+
+```
+Đã đọc hết trang 18, đã nhìn ra khuôn mẫu từ đoạn minh họa chữ viết dành cho người mù, từ các dấu chấm nổi/lặn đại diện cho từng chữ cái => bảng mã cấp 2 tin gọn và tiện lợi hơn. Chữ viết cho người mù thuở ban đầu được ví như mã 0 và 1 trong khoa học máy tính, và sự cải tiến lên bảng chữ cái cấp 2 cho người mù được ví như ngôn ngữ lập trình mà các programmer đang sử dụng trong sự nghiệp của mình.
