@@ -120,3 +120,11 @@ Theo quan điểm của tôi, logic quan trọng hơn công nghệ.
 Bạn phải có kỹ năng logic tốt. Nếu bạn có kỹ năng logic tốt, thì bạn có thể dễ dàng học công nghệ mới.
 Bạn cũng có thể học nhiều công nghệ đang thịnh hành.
 ```
+# Type 16:
+```
+Tại một công ty lớn, họ sẽ khăng khăng áp dụng một số quy trình nhất định (kiểm thử, quản lý phiên bản, lập tài liệu, devops) mà có vẻ tùy chọn đối với tâm trí chưa được đào tạo của bạn. Việc quen với việc không sử dụng các hoạt động có giá trị này có nghĩa là bạn phải học và tiếp thu những thói quen làm việc xấu. Điều này sẽ khiến bạn phải trả giá sau này trong sự nghiệp của mình.
+
+Không gì thay thế được việc hỏi các nhà phát triển cao cấp khi bạn đang cố gắng thu thập kiến ​​thức sâu rộng về lập trình để giúp công việc của bạn dễ dàng hơn.
+
+Bạn sẽ thấy nhiều quyết định kinh doanh hơn về phát triển phần mềm tại một công ty lớn hơn. Bạn sẽ biết được quyết định nào dự đoán thành công và quyết định nào không tốt. Điều này sẽ giúp bạn thành công hơn sau này trong sự nghiệp nếu bạn quản lý những người làm phần mềm.
+```
