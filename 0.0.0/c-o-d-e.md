@@ -99,3 +99,9 @@ vì vậy tổng số tổ hợp của 6 chấm phẳng và chấm nổi là 2 �
 ```
 ```
 Đã đọc hết trang 19, nó mô tả cách dùng bảng chữ cái cấp 2 để truyền đạt từ "about"
+# Type 15:
+```
+Chữ viết hoa được viết bằng 1 dấu chấm trong bảng chữ cái cho người mù
+```
+Đã đọc hết trang 20
+
