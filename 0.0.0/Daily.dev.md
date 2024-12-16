@@ -693,3 +693,6 @@ Theo Gregory, tập thể dục và ngủ ngon giúp duy trì những khả năn
 # Type 101:
 ```
 ```
+# Type 102:
+```
+```
