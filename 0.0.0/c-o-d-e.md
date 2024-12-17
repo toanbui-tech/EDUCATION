@@ -104,4 +104,7 @@ vì vậy tổng số tổ hợp của 6 chấm phẳng và chấm nổi là 2 �
 Chữ viết hoa được viết bằng 1 dấu chấm trong bảng chữ cái cho người mù
 ```
 Đã đọc hết trang 20
-
+# Type 16:
+```
+Đã đọc hết trang 21
+```
