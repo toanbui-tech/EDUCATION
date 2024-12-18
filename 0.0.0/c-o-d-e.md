@@ -115,4 +115,4 @@ Sự tương tự “nước và đường ống” khá phổ biến trong vi�
 Điện không giống bất cứ thứ gì khác trong vũ trụ này và chúng ta phải đối đầu với nó theo cách riêng của nó.
 Kiến thức khoa học phổ biến liên quan đến hoạt động của điện được gọi là lý thuyết điện tử, cho rằng điện có nguồn gốc từ sự chuyển động của các điện tử.
 ```
-
+Đã đọc hết trang 24
