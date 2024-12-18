@@ -112,7 +112,7 @@ Chữ viết hoa được viết bằng 1 dấu chấm trong bảng chữ cái c
 ```
 Bản chất tuần hoàn của mạch điện cho thấy có thứ gì đó đang chuyển động xung quanh mạch điện, có lẽ giống như nước chảy qua đường ống.
 Sự tương tự “nước và đường ống” khá phổ biến trong việc giải thích cách thức hoạt động của điện, nhưng cuối cùng nó bị phá vỡ, như tất cả các sự tương tự đều phải như vậy.
-Điện không giống bất cứ thứ gì khác trong vũ trụ này và chúng ta phải đối đầu với nó theo cách riêng của nó. K
-iến thức khoa học phổ biến liên quan đến hoạt động của điện được gọi là lý thuyết điện tử, cho rằng điện có nguồn gốc từ sự chuyển động của các điện tử.
+Điện không giống bất cứ thứ gì khác trong vũ trụ này và chúng ta phải đối đầu với nó theo cách riêng của nó.
+Kiến thức khoa học phổ biến liên quan đến hoạt động của điện được gọi là lý thuyết điện tử, cho rằng điện có nguồn gốc từ sự chuyển động của các điện tử.
 ```
 
