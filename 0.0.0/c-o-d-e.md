@@ -124,3 +124,12 @@ Khi một nguyên tử trong mạch mất một electron vào một nguyên tử
 Dòng điện trong mạch là sự truyền electron từ nguyên tử này sang nguyên tử khác
 ```
 Đã đọc hết trang 25, cuốn hút vô cùng, vì nó chạm đến 1 trong những điều mình luôn tò mò, đó là nguyên tử, dòng điện, sự chuyển động không ngừng, sự hút và đẩy nhau, vì sao lại thế
+
+# Type 16:
+```
+Dây càng dài thì điện trở càng cao.
+Nếu bạn thử nối dây đèn pin bằng dây dài hàng dặm, điện trở trong dây sẽ cao đến mức đèn pin không hoạt động.
+Dây càng dày thì điện trở càng thấp. Điều này có thể hơi phản trực giác.
+Bạn có thể tưởng tượng rằng một sợi dây dày cần nhiều điện hơn để “lấp đầy nó”.
+Nhưng thực ra độ dày của dây giúp có nhiều electron hơn để di chuyển qua dây.
+```
