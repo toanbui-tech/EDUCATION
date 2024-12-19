@@ -133,3 +133,4 @@ Dây càng dày thì điện trở càng thấp. Điều này có thể hơi ph�
 Bạn có thể tưởng tượng rằng một sợi dây dày cần nhiều điện hơn để “lấp đầy nó”.
 Nhưng thực ra độ dày của dây giúp có nhiều electron hơn để di chuyển qua dây.
 ```
+Đã đọc hết trang 31, phấn khích vô cùng
