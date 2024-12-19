@@ -123,3 +123,4 @@ Dòng điện trong mạch đèn pin rõ ràng hoạt động tốt hơn nhiều
 Khi một nguyên tử trong mạch mất một electron vào một nguyên tử khác ở gần đó, nó sẽ lấy một electron khác từ nguyên tử lân cận, nguyên tử này lấy một electron từ một nguyên tử lân cận khác, v.v.
 Dòng điện trong mạch là sự truyền electron từ nguyên tử này sang nguyên tử khác
 ```
+Đã đọc hết trang 25, cuốn hút vô cùng, vì nó chạm đến 1 trong những điều mình luôn tò mò, đó là nguyên tử, dòng điện, sự chuyển động không ngừng, sự hút và đẩy nhau, vì sao lại thế
