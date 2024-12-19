@@ -116,3 +116,10 @@ Sự tương tự “nước và đường ống” khá phổ biến trong vi�
 Kiến thức khoa học phổ biến liên quan đến hoạt động của điện được gọi là lý thuyết điện tử, cho rằng điện có nguồn gốc từ sự chuyển động của các điện tử.
 ```
 Đã đọc hết trang 24
+# Type 18:
+```
+Dòng điện trong mạch đèn pin rõ ràng hoạt động tốt hơn nhiều so với tia lửa điện hoặc tia sét.
+Ánh sáng cháy đều đặn và liên tục vì các electron không chỉ nhảy từ nơi này sang nơi khác.
+Khi một nguyên tử trong mạch mất một electron vào một nguyên tử khác ở gần đó, nó sẽ lấy một electron khác từ nguyên tử lân cận, nguyên tử này lấy một electron từ một nguyên tử lân cận khác, v.v.
+Dòng điện trong mạch là sự truyền electron từ nguyên tử này sang nguyên tử khác
+```
