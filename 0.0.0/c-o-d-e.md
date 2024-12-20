@@ -137,3 +137,4 @@ Nhưng thực ra độ dày của dây giúp có nhiều electron hơn để di 
 # Type 17:
 ```
 ```
+Đã đọc tới trang 36
