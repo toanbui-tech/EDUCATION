@@ -134,3 +134,6 @@ Bạn có thể tưởng tượng rằng một sợi dây dày cần nhiều đi
 Nhưng thực ra độ dày của dây giúp có nhiều electron hơn để di chuyển qua dây.
 ```
 Đã đọc hết trang 31, phấn khích vô cùng
+# Type 17:
+```
+```
