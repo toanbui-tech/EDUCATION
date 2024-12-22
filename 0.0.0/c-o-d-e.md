@@ -138,3 +138,4 @@ Nhưng thực ra độ dày của dây giúp có nhiều electron hơn để di 
 ```
 ```
 Đã đọc tới trang 36
+Đã đọc tới trang 38
