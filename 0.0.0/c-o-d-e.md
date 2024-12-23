@@ -147,3 +147,9 @@ Nhưng thực ra độ dày của dây giúp có nhiều electron hơn để di 
 ```
 Nam châm điện là nền tảng của điện báo. Việc bật và tắt công tắc ở một đầu sẽ khiến nam châm điện thực hiện tác dụng gì đó ở đầu kia
 ```
+# Type 20:
+```
+Mặc dù Samuel Morse đã thông báo cho văn phòng cấp bằng sáng chế vào năm 1836 rằng ông đã phát minh ra máy điện báo thành công, nhưng phải đến năm 1843, ông mới thuyết phục được Quốc hội tài trợ cho cuộc trình diễn công khai thiết bị này.
+Ngày lịch sử là ngày 24 tháng 5 năm 1844, khi một đường dây điện báo được nối giữa Washington, D.C. và Baltimore, Maryland, đã truyền tải thành công thông điệp trong Kinh thánh: “Chúa đã làm gì!”
+```
+Đã đọc hết trang 43
