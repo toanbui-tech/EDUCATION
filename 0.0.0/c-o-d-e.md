@@ -136,6 +136,14 @@ Nhưng thực ra độ dày của dây giúp có nhiều electron hơn để di 
 Đã đọc hết trang 31, phấn khích vô cùng
 # Type 17:
 ```
-```
 Đã đọc tới trang 36
+```
+# Type 18:
+```
 Đã đọc tới trang 38
+```
+# Type 19:
+Đã đọc tới trang 41
+```
+Nam châm điện là nền tảng của điện báo. Việc bật và tắt công tắc ở một đầu sẽ khiến nam châm điện thực hiện tác dụng gì đó ở đầu kia
+```
