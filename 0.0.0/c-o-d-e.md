@@ -154,3 +154,16 @@ Ngày lịch sử là ngày 24 tháng 5 năm 1844, khi một đường dây đi�
 ```
 Đã đọc hết trang 43
 Đã đọc hết trang 44
+# Type 21:
+```
+Vâng, số không.
+Số 0 thấp chắc chắn là một trong những phát minh quan trọng nhất trong lịch sử các con số và toán học.
+Nó hỗ trợ ký hiệu vị trí vì nó cho phép phân biệt 25 với 205 và 250.
+Số 0 cũng giúp giảm bớt nhiều phép toán khó xử lý trong các hệ thống phi vị trí, đặc biệt là phép nhân và chia.
+```
+# Type 22:
+```
+Mười là một con số đặc biệt quan trọng đối với con người chúng ta.
+Mười là số ngón tay và ngón chân mà hầu hết chúng ta đều có, và chắc chắn chúng ta thích có tất cả mười ngón mỗi ngón.
+Vì ngón tay của chúng ta thuận tiện cho việc đếm nên con người chúng ta đã điều chỉnh toàn bộ hệ thống số dựa trên số 10.
+```
