@@ -167,3 +167,4 @@ Mười là một con số đặc biệt quan trọng đối với con người 
 Mười là số ngón tay và ngón chân mà hầu hết chúng ta đều có, và chắc chắn chúng ta thích có tất cả mười ngón mỗi ngón.
 Vì ngón tay của chúng ta thuận tiện cho việc đếm nên con người chúng ta đã điều chỉnh toàn bộ hệ thống số dựa trên số 10.
 ```
+Đã đọc hết trang 61
