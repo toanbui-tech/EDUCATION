@@ -174,3 +174,6 @@ Vì ngón tay của chúng ta thuận tiện cho việc đếm nên con người
 Điều này thật đáng ngạc nhiên, nhưng thực ra cũng không có gì đáng ngạc nhiên.
 Cho dù chúng ta sử dụng hệ thống số nào, bất cứ khi nào chúng ta hết chữ số đơn, số có hai chữ số đầu tiên luôn là 10.
 ```
+# Type 24:
+```
+```
