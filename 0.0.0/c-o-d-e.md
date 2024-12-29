@@ -177,3 +177,6 @@ Cho dù chúng ta sử dụng hệ thống số nào, bất cứ khi nào chúng
 # Type 24:
 ```
 ```
+# Type 25:
+```
+```
