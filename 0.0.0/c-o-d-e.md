@@ -182,3 +182,6 @@ Cho dù chúng ta sử dụng hệ thống số nào, bất cứ khi nào chúng
 ```
 Đã đọc hết trang 65
 Đã đọc hết trang 66
+# Type 26:
+```
+```
