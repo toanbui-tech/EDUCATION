@@ -183,4 +183,4 @@ Chúng ta không thể đơn giản hơn được nữa.
 Hơn nữa, hệ thống số nhị phân thu hẹp khoảng cách giữa số học và điện học.
 Giải thích: Điện học bật và tắt = số học 1 và 0
 ```
-
+Đã đọc hết trang 68
