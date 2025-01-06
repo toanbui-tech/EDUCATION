@@ -174,14 +174,13 @@ Vì ngón tay của chúng ta thuận tiện cho việc đếm nên con người
 Điều này thật đáng ngạc nhiên, nhưng thực ra cũng không có gì đáng ngạc nhiên.
 Cho dù chúng ta sử dụng hệ thống số nào, bất cứ khi nào chúng ta hết chữ số đơn, số có hai chữ số đầu tiên luôn là 10.
 ```
-# Type 24:
-```
-```
-# Type 25:
-```
-```
 Đã đọc hết trang 65
 Đã đọc hết trang 66
-# Type 26:
+# Type 24:
 ```
+Bằng cách giảm hệ thống số của chúng tôi xuống chỉ còn các chữ số nhị phân 0 và 1, chúng tôi đã đi xa nhất có thể.
+Chúng ta không thể đơn giản hơn được nữa.
+Hơn nữa, hệ thống số nhị phân thu hẹp khoảng cách giữa số học và điện học.
+Giải thích: Điện học bật và tắt = số học 1 và 0
 ```
+
