@@ -184,3 +184,13 @@ Hơn nữa, hệ thống số nhị phân thu hẹp khoảng cách giữa số h
 Giải thích: Điện học bật và tắt = số học 1 và 0
 ```
 Đã đọc hết trang 68
+# Type 25:
+```
+Có lẽ là “Hợp nhất” hoặc “Sai đường”.
+Hoặc một tấm biển treo trên cửa: “Đóng” hoặc “Mở”.
+Hoặc đèn pin ở cửa sổ, bật hoặc tắt.
+Bạn có thể chọn trong số rất nhiều cách để nói có hoặc không nếu đó là tất cả những gì bạn cần nói.
+Bạn không cần một câu để nói có hay không; bạn không cần một từ và thậm chí bạn không cần một lá thư.
+Tất cả những gì bạn cần là một chút, và ý tôi là tất cả những gì bạn cần là 0 hoặc 1.
+
+```
