@@ -194,3 +194,7 @@ Bạn không cần một câu để nói có hay không; bạn không cần mộ
 Tất cả những gì bạn cần là một chút, và ý tôi là tất cả những gì bạn cần là 0 hoặc 1.
 
 ```
+#Type 26:
+```
+Từ bit, được đặt ra có nghĩa là chữ số nhị phân, chắc chắn là một trong những từ đáng yêu nhất được phát minh ra liên quan đến máy tính.
+```
