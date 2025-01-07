@@ -198,3 +198,4 @@ Tất cả những gì bạn cần là một chút, và ý tôi là tất cả n
 ```
 Từ bit, được đặt ra có nghĩa là chữ số nhị phân, chắc chắn là một trong những từ đáng yêu nhất được phát minh ra liên quan đến máy tính.
 ```
+Đã đọc hết trang 70
