@@ -1,4 +1,4 @@
-# Type 1:
+để# Type 1:
 ```
 I want Code to be a book that makes you understand these things, not in some abstract way, but with a
 depth that just might even rival that of electrical engineers and programmers. I also hope that you
@@ -202,3 +202,4 @@ Từ bit, được đặt ra có nghĩa là chữ số nhị phân, chắc chắ
 # Type 27:
 ```
 ```
+# Type 28:
