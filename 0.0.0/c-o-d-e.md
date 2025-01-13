@@ -203,3 +203,5 @@ Từ bit, được đặt ra có nghĩa là chữ số nhị phân, chắc chắ
 ```
 ```
 # Type 28:
+```
+```
