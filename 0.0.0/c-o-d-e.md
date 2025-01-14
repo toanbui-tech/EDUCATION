@@ -201,7 +201,12 @@ Từ bit, được đặt ra có nghĩa là chữ số nhị phân, chắc chắ
 Đã đọc hết trang 70
 # Type 27:
 ```
+Khái niệm cơ bản ở đây là thông tin thể hiện sự lựa chọn giữa hai hoặc nhiều khả năng.
+Ví dụ, khi chúng ta nói chuyện với người khác, mỗi từ chúng ta nói ra đều là sự lựa chọn trong số tất cả các từ có trong từ điển.
+Nếu chúng ta đánh số tất cả các từ trong từ điển từ 1 đến 351.482, chúng ta có thể thực hiện các cuộc hội thoại một cách chính xác bằng cách sử dụng các con số thay vì từ ngữ.
+(Tất nhiên, cả hai người tham gia đều cần những từ điển có số từ giống hệt nhau cũng như sự kiên nhẫn.)
 ```
 # Type 28:
 ```
 ```
+Đã đọc hết trang 72
