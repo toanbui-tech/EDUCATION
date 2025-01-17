@@ -206,3 +206,11 @@ Nếu chúng ta đánh số tất cả các từ trong từ điển từ 1 đế
 (Tất nhiên, cả hai người tham gia đều cần những từ điển có số từ giống hệt nhau cũng như sự kiên nhẫn.)
 ```
 Đã đọc hết trang 72
+# Type 28:
+```
+Ý nghĩa của một bit cụ thể hoặc tập hợp các bit luôn được hiểu theo ngữ cảnh.
+Ý nghĩa của dải ruy băng màu vàng quanh một cây sồi cụ thể có lẽ chỉ có người đặt nó ở đó và người có nhiệm vụ nhìn thấy nó mới biết.
+Thay đổi màu sắc, cái cây hay ngày tháng và nó chỉ là một mảnh vải vô nghĩa.
+Tương tự, để có được một số thông tin hữu ích từ cử chỉ tay của Siskel và Ebert, ít nhất chúng ta cần biết bộ phim đang được thảo luận là gì.
+```
+Đã đọc hết trang 73
