@@ -214,3 +214,9 @@ Thay đổi màu sắc, cái cây hay ngày tháng và nó chỉ là một mản
 Tương tự, để có được một số thông tin hữu ích từ cử chỉ tay của Siskel và Ebert, ít nhất chúng ta cần biết bộ phim đang được thảo luận là gì.
 ```
 Đã đọc hết trang 73
+# Type 29:
+```
+Chúng ta có ba mã không được sử dụng: 1101, 1110 và 1111, tổng cộng là 16.
+Bất cứ khi nào nói về bit, chúng ta thường nói về một số bit nhất định.
+Càng có nhiều bit, chúng ta càng có thể truyền tải nhiều khả năng khác nhau.
+```
