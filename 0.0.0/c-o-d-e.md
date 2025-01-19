@@ -220,3 +220,6 @@ Chúng ta có ba mã không được sử dụng: 1101, 1110 và 1111, tổng c�
 Bất cứ khi nào nói về bit, chúng ta thường nói về một số bit nhất định.
 Càng có nhiều bit, chúng ta càng có thể truyền tải nhiều khả năng khác nhau.
 ```
+# Type 30:
+```
+```
