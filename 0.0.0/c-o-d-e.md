@@ -222,4 +222,5 @@ Càng có nhiều bit, chúng ta càng có thể truyền tải nhiều khả n�
 ```
 # Type 30:
 ```
+
 ```
