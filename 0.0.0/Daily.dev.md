@@ -655,8 +655,7 @@ Mối lo ngại về tinh thần của một số lập trình viên lớn tuổ
 Theo Gregory, tập thể dục và ngủ ngon giúp duy trì những khả năng cần thiết của một nhà phát triển.
 ```
 # Type 89:
-```
-```
+![](https://media.licdn.com/dms/image/v2/D4D22AQGbCso6obN_YA/feedshare-shrink_2048_1536/B4DZRPA28BGkAo-/0/1736492414666?e=1740614400&v=beta&t=X3sNCKy4tq2yZw6gOQhrpBkwOuzzsQh3Py_JkMz21pY)
 # Type 90:
 ```
 ```
