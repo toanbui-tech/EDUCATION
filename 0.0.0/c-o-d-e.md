@@ -229,3 +229,6 @@ Càng có nhiều bit, chúng ta càng có thể truyền tải nhiều khả n�
 # Type 32:
 ```
 ```
+# Type 33:
+```
+```
