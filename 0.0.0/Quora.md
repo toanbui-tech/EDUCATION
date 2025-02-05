@@ -128,3 +128,10 @@ Không gì thay thế được việc hỏi các nhà phát triển cao cấp kh
 
 Bạn sẽ thấy nhiều quyết định kinh doanh hơn về phát triển phần mềm tại một công ty lớn hơn. Bạn sẽ biết được quyết định nào dự đoán thành công và quyết định nào không tốt. Điều này sẽ giúp bạn thành công hơn sau này trong sự nghiệp nếu bạn quản lý những người làm phần mềm.
 ```
+# Type 17:
+```
+Trong tâm lý học có một thứ gọi là " giải phóng nhận thức ".
+Mục tiêu là nhìn VÀO những suy nghĩ thay vì TỪ những suy nghĩ.
+Để ý đến những suy nghĩ, thay vì bị vướng vào chúng.
+Thu nhỏ lại và quan sát chúng từ ngôi thứ ba.
+```
