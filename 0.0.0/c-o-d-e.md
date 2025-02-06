@@ -226,6 +226,7 @@ Càng có nhiều bit, chúng ta càng có thể truyền tải nhiều khả n�
 ```
 # Type 31:
 ```
+đã đọc đến trang 89
 ```
 # Type 32:
 ```
