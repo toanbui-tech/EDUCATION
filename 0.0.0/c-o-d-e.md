@@ -243,6 +243,6 @@ Càng có nhiều bit, chúng ta càng có thể truyền tải nhiều khả n�
 # Type 36:
 ```
 ```
-# Type 36:
+# Type 37:
 ```
 ```
