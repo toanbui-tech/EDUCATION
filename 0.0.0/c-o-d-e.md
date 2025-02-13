@@ -230,6 +230,7 @@ Càng có nhiều bit, chúng ta càng có thể truyền tải nhiều khả n�
 ```
 # Type 32:
 ```
+Đã đọc đến trang 90 nhưng không hiểu được gì cả, tâm trí suy nhược, mệt mỏi
 ```
 # Type 33:
 ```
@@ -244,5 +245,8 @@ Càng có nhiều bit, chúng ta càng có thể truyền tải nhiều khả n�
 ```
 ```
 # Type 37:
+```
+```
+# Type 38:
 ```
 ```
