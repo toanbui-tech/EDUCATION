@@ -234,6 +234,7 @@ Càng có nhiều bit, chúng ta càng có thể truyền tải nhiều khả n�
 ```
 # Type 33:
 ```
+Phải cố gắng đọc, để sớm trở thành 1 kỹ sư phần mềm hiểu biết sâu về tech và làm nhiều app có ích cho xã hội
 ```
 # Type 34:
 ```
