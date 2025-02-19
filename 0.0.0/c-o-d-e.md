@@ -238,6 +238,15 @@ Phải cố gắng đọc, để sớm trở thành 1 kỹ sư phần mềm hi�
 ```
 # Type 34:
 ```
+Đã đọc lại trang 90 và đã hiểu nó viết cái gì:
+- Số 1 và 0 trong đại số boolean
+- 1 là tất cả, 0 là không có gì cả
+VD: mèo đực + mèo cái = 1 => vì tập hợp toàn bộ con mèo trên đời đều là + của mèo đực + mèo cái
+VD: (mèo cái)X(0)= 0 => vừa là mèo cái vừa là không là gì:)) trên đời làm gì có
+VD: (mèo cái)+(0) = 1 => một tập hơp có mèo cái và không là gì, thì là 1 vũ trụ mèo cái
+VD: 1 - (mèo đực) = mèo cái => loại trừ mèo đưc khỏi vũ trụ mèo, thì còn lại mèo cái
+VD: (1)x(mèo đực) = mèo đực
+VD: (1)+(mèo đực) = 1
 ```
 # Type 35:
 ```
