@@ -250,6 +250,8 @@ VD: (1)+(mèo đực) = 1
 ```
 # Type 35:
 ```
+Đã đọc xong trang 92
+Ví dụ về tam đoạn luận socrate bằng các phép boolean + x, sau đó dẫn nhập sang các phép OR, AND, NOT trong ngôn ngữ máy tính
 ```
 # Type 36:
 ```
