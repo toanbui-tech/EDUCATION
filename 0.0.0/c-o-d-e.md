@@ -255,6 +255,7 @@ Ví dụ về tam đoạn luận socrate bằng các phép boolean + x, sau đó
 ```
 # Type 36:
 ```
+Đã đọc xong trang 93
 ```
 # Type 37:
 ```
