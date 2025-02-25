@@ -662,6 +662,7 @@ Directory Traversal.
 ```
 # Type 91:
 ```
+
 ```
 # Type 92:
 ```
@@ -700,5 +701,8 @@ Directory Traversal.
 ```
 ```
 # Type 104:
+```
+```
+# Type 105:
 ```
 ```
