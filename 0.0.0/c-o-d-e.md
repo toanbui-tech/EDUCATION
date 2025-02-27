@@ -259,6 +259,11 @@ Ví dụ về tam đoạn luận socrate bằng các phép boolean + x, sau đó
 ```
 # Type 37:
 ```
+Cuối buổi tối hôm đó, khi mèo con cuộn tròn trong lòng bạn, bạn tự hỏi liệu bạn có thể có một số công tắc và một bóng đèn để giúp bạn xác định xem những chú mèo con cụ thể có thỏa mãn tiêu chí của bạn hay không.
+(Vâng, bạn là một đứa trẻ kỳ lạ.)
+Bạn có nhận ra rằng bạn sẽ tạo ra một bước đột phá quan trọng về khái niệm.
+Bạn có thể thực hiện một số thí nghiệm sẽ hợp nhất đại số của George Boole với mạch điện và do đó có thể thiết kế và xây dựng các máy tính hoạt động với số nhị phân.
+Nhưng đừng để điều đó đe dọa bạn.
 ```
 # Type 38:
 ```
