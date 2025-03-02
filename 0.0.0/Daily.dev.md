@@ -661,10 +661,9 @@ Theo Gregory, tập thể dục và ngủ ngon giúp duy trì những khả năn
 Directory Traversal.
 ```
 # Type 91:
-![](https://git.nexpando.com/nexbus_v2/nexbus_admin_v2/-/merge_requests/1385/diffs)
+![]()
 # Type 92:
-```
-```
+![](https://media.licdn.com/dms/image/v2/D4D22AQGYIEEKivWaPw/feedshare-shrink_1280/B4DZVA51qIHwAo-/0/1740550659856?e=1743638400&v=beta&t=Qij8lnjvZ6rLVxRjhP52qzmh5fvPYSX6wZkK74qHvN0)
 # Type 93:
 ```
 ```
