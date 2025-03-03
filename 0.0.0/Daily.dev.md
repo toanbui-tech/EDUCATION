@@ -661,7 +661,7 @@ Theo Gregory, tập thể dục và ngủ ngon giúp duy trì những khả năn
 Directory Traversal.
 ```
 # Type 91:
-![]()
+![](https://media.licdn.com/dms/image/v2/D4D22AQH6kq_evjcjdg/feedshare-shrink_800/B4DZVBvMlzHkAg-/0/1740564650392?e=1743638400&v=beta&t=vH6IyR-rxo6sfWMSjZGPdSz1Jik0Jz6dynMeixXxi2o)
 # Type 92:
 ![](https://media.licdn.com/dms/image/v2/D4D22AQGYIEEKivWaPw/feedshare-shrink_1280/B4DZVA51qIHwAo-/0/1740550659856?e=1743638400&v=beta&t=Qij8lnjvZ6rLVxRjhP52qzmh5fvPYSX6wZkK74qHvN0)
 # Type 93:
