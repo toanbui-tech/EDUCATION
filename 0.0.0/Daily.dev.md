@@ -666,6 +666,14 @@ Directory Traversal.
 ![](https://media.licdn.com/dms/image/v2/D4D22AQGYIEEKivWaPw/feedshare-shrink_1280/B4DZVA51qIHwAo-/0/1740550659856?e=1743638400&v=beta&t=Qij8lnjvZ6rLVxRjhP52qzmh5fvPYSX6wZkK74qHvN0)
 # Type 93:
 ```
+Hãy trung thực-Git ​​có thể cảm thấy như một con dao hai lưỡi.
+Một mặt, nó là xương sống của sự phát triển phần mềm hiện đại.
+Mặt khác, nó có một mê cung của các lệnh có thể khiến các nhà phát triển dày dạn kinh nghiệm gãi đầu.
+Chắc chắn, bạn biết những điều cơ bản: Git clone, Git commit và Git push.
+Nhưng điều gì sẽ xảy ra nếu tôi nói với bạn rằng, cả một thế giới của các lệnh Git mà hầu hết các nhà phát triển không bao giờ chạm vào?
+
+[Những viên đá quý ẩn này có thể giúp bạn tiết kiệm hàng giờ, giải quyết các vấn đề khó khăn và khiến bạn trông giống như một thuật sĩ Git.
+Sẵn sàng để tăng cấp? Hãy cùng đi sâu vào 10 lệnh Git bị đánh giá thấp sẽ chuyển đổi cách bạn làm việc với kiểm soát phiên bản.
 ```
 # Type 94:
 ```
