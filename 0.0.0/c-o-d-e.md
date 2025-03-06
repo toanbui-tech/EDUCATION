@@ -267,6 +267,7 @@ Nhưng đừng để điều đó đe dọa bạn.
 ```
 # Type 38:
 ```
+Đã đọc xong trang 95
 ```
 # Type 39:
 ```
