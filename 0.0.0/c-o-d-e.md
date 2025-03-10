@@ -271,6 +271,7 @@ Nhưng đừng để điều đó đe dọa bạn.
 ```
 # Type 39:
 ```
+Đã đọc xong trang 99
 ```
 # Type 40:
 ```
