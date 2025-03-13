@@ -275,4 +275,6 @@ Nhưng đừng để điều đó đe dọa bạn.
 ```
 # Type 40:
 ```
+Đã đọc xong trang 101
+Yes, telegraph relays.
 ```
