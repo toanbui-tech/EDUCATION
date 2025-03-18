@@ -278,3 +278,6 @@ Nhưng đừng để điều đó đe dọa bạn.
 Đã đọc xong trang 101
 Yes, telegraph relays.
 ```
+# Type 41:
+```
+```
