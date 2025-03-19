@@ -281,3 +281,6 @@ Yes, telegraph relays.
 # Type 41:
 ```
 ```
+# Type 42:
+```
+```
