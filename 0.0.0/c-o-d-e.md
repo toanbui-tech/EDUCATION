@@ -280,6 +280,7 @@ Yes, telegraph relays.
 ```
 # Type 41:
 ```
+Đã đọc xong trang 102
 ```
 # Type 42:
 ```
