@@ -284,5 +284,9 @@ Yes, telegraph relays.
 ```
 # Type 42:
 ```
-Đã đọc héet trang 103
+Đã đọc hết trang 103
+```
+# Type 43:
+```
+Đã đọc hết trang 104
 ```
