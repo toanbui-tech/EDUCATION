@@ -290,3 +290,6 @@ Yes, telegraph relays.
 ```
 Đã đọc hết trang 104
 ```
+# Type 44:
+```
+```
