@@ -291,6 +291,7 @@ Yes, telegraph relays.
 Đã đọc hết trang 104
 ```
 # Type 44:
+- Đã đọc hết trang 105
 ```
-
+Giống như các công tắc, rơle có thể được kết nối theo chuỗi và song song để thực hiện các tác vụ đơn giản trong logic. Những kết hợp rơle này được gọi là cổng logic. Khi tôi nói rằng các cổng logic này thực hiện các nhiệm vụ đơn giản trong logic, tôi có nghĩa là đơn giản nhất có thể. Rơle có lợi thế so với các công tắc trong đó rơle có thể được bật và tắt bởi các rơle khác thay vì bằng ngón tay. Điều này có nghĩa là các cổng logic có thể được kết hợp để thực hiện các nhiệm vụ phức tạp hơn, chẳng hạn như các hàm đơn giản trong số học. Thật vậy, chương tiếp theo sẽ trình bày cách chuyển các công tắc, bóng đèn, pin và rơle điện báo để tạo ra một máy bổ sung (mặc dù một máy chỉ hoạt động với số nhị phân).
 ```
