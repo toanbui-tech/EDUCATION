@@ -299,3 +299,6 @@ Giống như các công tắc, rơle có thể được kết nối theo chuỗi
 ```
 Connecting relays is the key to building logic gates
 ```
+# Type 46:
+```
+```
