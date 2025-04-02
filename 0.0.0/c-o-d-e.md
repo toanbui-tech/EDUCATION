@@ -301,5 +301,8 @@ Connecting relays is the key to building logic gates
 ```
 # Type 46:
 ```
-
+```
+# Type 47:
+```
+Đọc lại trang 110
 ```
