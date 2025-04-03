@@ -135,3 +135,6 @@ Mục tiêu là nhìn VÀO những suy nghĩ thay vì TỪ những suy nghĩ.
 Để ý đến những suy nghĩ, thay vì bị vướng vào chúng.
 Thu nhỏ lại và quan sát chúng từ ngôi thứ ba.
 ```
+# Type 18:
+```
+```
