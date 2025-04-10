@@ -39,3 +39,6 @@ Hãy đặt ra những mục tiêu nhỏ thay vì mục tiêu lớn để học 
 
 Không sao nếu đôi khi bạn phải dành nhiều thời gian hơn cho một khái niệm này so với khái niệm khác. Nếu bạn cảm thấy thất vọng vì tốc độ của mình, hãy cam kết dành 2 giờ mỗi ngày để viết mã, cho dù đó là dành để đọc lướt qua một chương dễ hay dành thời gian phân tích một khái niệm khó. Nếu bạn đã dành 2 giờ, bất kể bạn đã đi được bao xa, bạn vẫn đạt được mục tiêu của mình.
 ```
+# Type 5:
+```
+```
