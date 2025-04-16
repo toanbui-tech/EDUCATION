@@ -154,4 +154,7 @@ Chấp nhận rằng cảm giác an toàn đến từ trạng thái tinh thần 
 ```
 # Type 17:
 ```
+✅ Đúng như bạn nói, người có xu hướng đơn nhiệm có thể được rèn luyện từ môi trường yêu cầu sự tập trung cao trong quá khứ,
+trong khi người đa nhiệm thường là do quen với việc làm nhiều thứ đơn giản cùng lúc, tạo thành thói quen xử lý đồng thời.
+Vì khi phải giải quyết những chuyện khó khăn, tự nhiên con người ta sẽ focus vào 1 thứ duy nhất, lâu dần thành thói quen.
 ```
