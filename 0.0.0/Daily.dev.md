@@ -723,3 +723,6 @@ Sẵn sàng để tăng cấp? Hãy cùng đi sâu vào 10 lệnh Git bị đán
 # Type 109:
 ```
 ```
+# Type 110:
+```
+```
