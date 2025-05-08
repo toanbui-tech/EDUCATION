@@ -137,4 +137,7 @@ Thu nhỏ lại và quan sát chúng từ ngôi thứ ba.
 ```
 # Type 18:
 ```
+Trong khi hầu hết sinh viên kỹ thuật muốn học cách giải quyết vấn đề và lập trình để xin việc (mùa tuyển dụng sẽ sớm bắt đầu), tôi tập trung vào việc thay đổi suy nghĩ của họ để trở thành người giải quyết vấn đề (không chỉ là người tìm việc) trong suốt cuộc đời. Tôi nói với họ rằng khi bác sĩ không đi khắp nơi để xin việc, tại sao kỹ sư lại phải làm vậy.
+
+Quay lại câu hỏi của bạn, tôi hy vọng bạn có thể thấy rằng “sống sót” không phải là thách thức đối với các kỹ sư phần mềm giải quyết vấn đề. Thách thức lớn nhất là không có khả năng đào tạo lại và tâm lý phụ thuộc vào người khác để cung cấp việc làm.
 ```
