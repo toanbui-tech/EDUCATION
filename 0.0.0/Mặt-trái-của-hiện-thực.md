@@ -61,3 +61,6 @@ Nhưng chúng cũng là một trong những khoảnh khắc có ý nghĩa và l�
 Chúng gắn liền với đau đớn, vật lộn, kể cả giận dữ và thất vọng.
 Nhưng khi hoàn thành chúng, một ngày nào đó mắt ta sẽ rơm rớm khi nhớ và kể lại cho con cháu về những việc ấy
 ```
+# Type 4:
+```
+```
