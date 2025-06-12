@@ -315,3 +315,11 @@ Connecting relays is the key to building logic gates
 # Type 50:
 ```
 ```
+
+========
+Sau 1 tháng kiệt sức không có thời gian đọc nỗi 1 trang sách.
+
+Type 51:
+```
+Phép cộng là phép toán cơ bản nhất, vì vậy nếu chúng ta muốn xây dựng một máy tính (và đó là mục tiêu ngầm của tôi trong cuốn sách này), trước tiên chúng ta phải biết cách xây dựng thứ gì đó cộng hai số lại với nhau. Khi bạn đi đến tận cùng, phép cộng gần như là điều duy nhất mà máy tính làm. Nếu chúng ta có thể xây dựng thứ gì đó cộng lại, chúng ta đang trên đường xây dựng thứ gì đó sử dụng phép cộng để trừ, nhân, chia, tính toán khoản trả góp thế chấp, hướng dẫn tên lửa đến sao Hỏa, chơi cờ vua và làm rối tung hóa đơn điện thoại của chúng ta.
+```
