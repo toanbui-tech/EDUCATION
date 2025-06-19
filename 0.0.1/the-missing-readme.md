@@ -8,6 +8,9 @@ systems should be simplified, while low-inertia or low-change systems can be
 left complex (as long as you discard them or continue to leave them alone).
 ```
 # Main 2:
+```bash
+đã đọc đến trang 29
+```
   NGÀY CHRIS XÓA TOÀN BỘ MÃ NGUỒN
 
   Trong một kỳ thực tập đầu tiên của Chris, anh ấy làm việc trong một dự án cùng với một kỹ sư cấp cao. Chris đã hoàn thành một số thay đổi và cần đưa chúng vào triển khai. Kỹ sư cấp cao đã hướng dẫn anh cách kiểm tra mã nguồn vào hệ thống quản lý phiên bản, cụ thể là CVS. Chris làm theo hướng dẫn một cách máy móc, lần lượt thực hiện các bước liên quan đến việc tạo nhánh, gắn thẻ và gộp nhánh.
