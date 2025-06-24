@@ -7,7 +7,7 @@ inertia. Complexity’s cost accrues over time, so high-inertia, high-change
 systems should be simplified, while low-inertia or low-change systems can be
 left complex (as long as you discard them or continue to leave them alone).
 ```
-# Main 2:
+# Main 2
 ```bash
 đã đọc đến trang 29
 ```
@@ -21,6 +21,11 @@ left complex (as long as you discard them or continue to leave them alone).
   
   Sai lầm là chuyện sẽ xảy ra. Mỗi kỹ sư đều có một phiên bản câu chuyện như vậy.
   Hãy cố gắng hết sức, và cố gắng hiểu những gì bạn đang làm — nhưng cũng hãy biết rằng, những chuyện như thế này là điều không thể tránh khỏi.
+
+# Main 3
+```bash
+đã đọc hết trang 35
+```
 
 
 
