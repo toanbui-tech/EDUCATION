@@ -28,7 +28,7 @@ left complex (as long as you discard them or continue to leave them alone).
 ```
 # Main 4:
 ```bash
-đã đọc hết trang 41
+đã đọc hết trang 45
 ```
 
 
