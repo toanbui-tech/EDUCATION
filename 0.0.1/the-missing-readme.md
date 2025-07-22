@@ -30,7 +30,12 @@ left complex (as long as you discard them or continue to leave them alone).
 ```bash
 đã đọc hết trang 45
 ```
-
+# Main 5:
+Đã đọc nữa đầu trang 46
+```
+Hãy Thực Dụng Khi Cần Refactoring
+Refactoring không phải lúc nào cũng là lựa chọn khôn ngoan. Có những hạn chót và ưu tiên cạnh tranh. Việc refactoring tốn thời gian, và đội ngũ của bạn có thể quyết định bỏ qua cơ hội refactoring để kịp giao những tính năng mới. Những quyết định như vậy sẽ tích lũy “technical debt” (nợ kỹ thuật) – đôi khi đó là phương án đúng đắn. Chi phí cho việc refactor cũng có thể vượt quá giá trị thu được. Những đoạn mã cũ đã lỗi thời và sắp bị thay thế thì không cần phải refactor, cũng như những đoạn mã có rủi ro thấp hoặc hiếm khi được chỉnh sửa. Hãy thực dụng trong việc quyết định khi nào nên refactor.
+```
 
 
 
