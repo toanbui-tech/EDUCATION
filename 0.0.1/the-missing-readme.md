@@ -36,7 +36,7 @@ left complex (as long as you discard them or continue to leave them alone).
 Hãy Thực Dụng Khi Cần Refactoring
 Refactoring không phải lúc nào cũng là lựa chọn khôn ngoan. Có những hạn chót và ưu tiên cạnh tranh. Việc refactoring tốn thời gian, và đội ngũ của bạn có thể quyết định bỏ qua cơ hội refactoring để kịp giao những tính năng mới. Những quyết định như vậy sẽ tích lũy “technical debt” (nợ kỹ thuật) – đôi khi đó là phương án đúng đắn. Chi phí cho việc refactor cũng có thể vượt quá giá trị thu được. Những đoạn mã cũ đã lỗi thời và sắp bị thay thế thì không cần phải refactor, cũng như những đoạn mã có rủi ro thấp hoặc hiếm khi được chỉnh sửa. Hãy thực dụng trong việc quyết định khi nào nên refactor.
 
-# Main 47:
+# Main 6:
 - Xong trang 47
 - Tránh những sai lầm phổ biến
 - Mã nguồn hiện tại thường đi kèm với nhiều "hành lý" quá khứ. Các thư viện, framework, và pattern đã được thiết lập sẵn. Một số tiêu chuẩn có thể khiến bạn khó chịu. Mong muốn làm việc với code sạch sẽ và tech stack hiện đại là điều tự nhiên, nhưng việc viết lại mã hoặc phớt lờ tiêu chuẩn là rất nguy hiểm.
@@ -64,7 +64,9 @@ Những cải tiến nhỏ không xứng đáng với cái giá phải trả.
 - Đừng bỏ qua các quy chuẩn, ngay cả khi bạn không đồng ý với chúng.
 
 - Tránh việc fork code trừ khi thực sự cần thiết.
-
+# Main 7:
+- Phần mềm là một lĩnh vực thay đổi nhanh chóng. Các công cụ, ngôn ngữ và framework mới liên tục ra đời. So với những gì đang "hot" trên mạng, mã nguồn hiện tại thường trông lỗi thời. Tuy nhiên, các công ty thành công thường sở hữu những hệ thống với thư viện và mẫu thiết kế cũ — và điều đó có lý do: thành công cần thời gian, còn việc thay đổi công nghệ liên tục chỉ là một sự xao nhãng.
+- Tất cả công nghệ rồi sẽ gặp lỗi, nhưng công nghệ cũ thì lỗi theo cách có thể đoán trước. Trong khi đó, công nghệ mới lại thường gặp lỗi theo cách bất ngờ. Do thiếu độ trưởng thành, công nghệ mới có cộng đồng nhỏ hơn, ít tài liệu hơn, ít ổn định hơn và không tương thích nhiều. Bạn sẽ khó tìm được câu trả lời trên Stack Overflow.
 
 
 
