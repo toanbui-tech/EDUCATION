@@ -68,13 +68,24 @@ Những cải tiến nhỏ không xứng đáng với cái giá phải trả.
 - Phần mềm là một lĩnh vực thay đổi nhanh chóng. Các công cụ, ngôn ngữ và framework mới liên tục ra đời. So với những gì đang "hot" trên mạng, mã nguồn hiện tại thường trông lỗi thời. Tuy nhiên, các công ty thành công thường sở hữu những hệ thống với thư viện và mẫu thiết kế cũ — và điều đó có lý do: thành công cần thời gian, còn việc thay đổi công nghệ liên tục chỉ là một sự xao nhãng.
 - Tất cả công nghệ rồi sẽ gặp lỗi, nhưng công nghệ cũ thì lỗi theo cách có thể đoán trước. Trong khi đó, công nghệ mới lại thường gặp lỗi theo cách bất ngờ. Do thiếu độ trưởng thành, công nghệ mới có cộng đồng nhỏ hơn, ít tài liệu hơn, ít ổn định hơn và không tương thích nhiều. Bạn sẽ khó tìm được câu trả lời trên Stack Overflow.
 
-Main 8:
+# Main 8:
 ```bash
 đã đọc đến trang 58
 ```
 - Code sẽ có những hành vi kỳ lạ khi đưa ra “thế giới thực”. Người dùng thì khó đoán, mạng thì không ổn định, và mọi thứ đều có thể trục trặc. Phần mềm chạy trong môi trường production phải luôn hoạt động ổn định. Việc viết code có khả năng vận hành (operable code) sẽ giúp bạn xử lý những tình huống không lường trước được.
 
 - Code có khả năng vận hành là code có sẵn cơ chế bảo vệ, chẩn đoán và kiểm soát.
-
-
-
+# Main 9:
+```bash
+Đã đọc đến trang 61
+```
+- Giải phóng tài nguyên đúng cách
+- Hãy luôn chắc chắn rằng tất cả tài nguyên được giải phóng khi có lỗi xảy ra.
+- Điều này bao gồm:
++ Giải phóng bộ nhớ
++ Xóa các cấu trúc dữ liệu không còn dùng
++ Đóng kết nối mạng (network sockets)
++ Đóng các file handle
+- Hệ điều hành chỉ cấp một số lượng giới hạn file handle và network socket.
+- Nếu bạn không đóng chúng sau khi sử dụng, hệ thống sẽ cạn kiệt tài nguyên, khiến các kết nối mới hoặc file mới không thể mở được.
+*Thiết kế hệ thống mà luôn giải phóng tài nguyên dù có lỗi hay không là một phần quan trọng giúp ứng dụng ổn định, bền vững và dễ bảo trì.*
