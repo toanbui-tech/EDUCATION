@@ -89,3 +89,9 @@ Những cải tiến nhỏ không xứng đáng với cái giá phải trả.
 - Hệ điều hành chỉ cấp một số lượng giới hạn file handle và network socket.
 - Nếu bạn không đóng chúng sau khi sử dụng, hệ thống sẽ cạn kiệt tài nguyên, khiến các kết nối mới hoặc file mới không thể mở được.
 *Thiết kế hệ thống mà luôn giải phóng tài nguyên dù có lỗi hay không là một phần quan trọng giúp ứng dụng ổn định, bền vững và dễ bảo trì.*
+
+# Main 10:
+```bash
+Đã đọc đến trang 65
+```
+- Giữ log “nguyên tử” (atomic): gom đủ thông tin vào một dòng, tránh xuống dòng; không giả định thứ tự log; nếu buộc phải tách, gắn unique ID để ghép lại.
