@@ -329,4 +329,6 @@ Type 52:
 ```
 Type 53:
 ```
+Đã đọc xong trang 135
 ```
+- Nó đang mô tả việc công 2 số nhị phân 8 bit, sau đó suy nghĩ về 1 máy tính có thể cộng 2 số nhị phân 8 bit, bằng các nút bật/tắt và kết quả sẽ là bóng đèn sáng/tối ở mỗi bit.
