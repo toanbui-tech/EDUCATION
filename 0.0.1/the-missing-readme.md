@@ -95,3 +95,8 @@ Những cải tiến nhỏ không xứng đáng với cái giá phải trả.
 Đã đọc đến trang 65
 ```
 - Giữ log “nguyên tử” (atomic): gom đủ thông tin vào một dòng, tránh xuống dòng; không giả định thứ tự log; nếu buộc phải tách, gắn unique ID để ghép lại.
+
+# Main 11:
+```bash
+Đã đọc đến trang 68 - Measure Everything
+```
