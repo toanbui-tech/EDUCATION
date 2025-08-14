@@ -332,3 +332,15 @@ Type 53:
 Đã đọc xong trang 135
 ```
 - Nó đang mô tả việc công 2 số nhị phân 8 bit, sau đó suy nghĩ về 1 máy tính có thể cộng 2 số nhị phân 8 bit, bằng các nút bật/tắt và kết quả sẽ là bóng đèn sáng/tối ở mỗi bit.
+
+# Type 54:
+```
+Đã đọc tới trang 147
+```
+- Phép trừ trong máy tính thật ra là:
+```
+253 − 176
+ = 253 − 176 + 1000 − 1000
+ = 253 − 176 + 999 + 1 − 1000
+ = 253 + (999 − 176) + 1 − 1000
+```
