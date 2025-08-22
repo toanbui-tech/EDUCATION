@@ -105,3 +105,9 @@ Những cải tiến nhỏ không xứng đáng với cái giá phải trả.
 Đã đọc đến trang 71
 ```
 - Việc sáng tạo trong hệ thống cấu hình nghe có vẻ hấp dẫn. Cấu hình là thứ quen thuộc với mọi người, và những hệ thống cấu hình đơn giản thường thiếu đi các tính năng “hay ho” như thay thế biến, câu lệnh điều kiện if, v.v. Nhiều người sáng tạo và thiện chí đã tốn vô số thời gian để xây dựng những hệ thống cấu hình “hào nhoáng”. Nhưng đáng buồn là, càng “thông minh” thì lỗi phát sinh càng kỳ quặc. Đừng sáng tạo với cấu hình — hãy dùng cách đơn giản nhất có thể. Một file cấu hình tĩnh theo định dạng chuẩn duy nhất thường là lý tưởng nhất.
+
+# Main 13:
+```bash
+Đã đọc đến trang 76
+```
+- Trong chương này, chúng ta sẽ đi qua các nguyên tắc cơ bản của quản lý dependency, và bàn về cơn ác mộng lớn nhất của mọi kỹ sư: dependency hell.
