@@ -111,3 +111,9 @@ Những cải tiến nhỏ không xứng đáng với cái giá phải trả.
 Đã đọc đến trang 76
 ```
 - Trong chương này, chúng ta sẽ đi qua các nguyên tắc cơ bản của quản lý dependency, và bàn về cơn ác mộng lớn nhất của mọi kỹ sư: dependency hell.
+
+# Main 14:
+```bash
+Đã đọc đến trang 79
+```
+Phụ thuộc bắc cầu (Transitive Dependencies)
