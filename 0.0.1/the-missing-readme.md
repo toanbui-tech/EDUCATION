@@ -117,3 +117,17 @@ Những cải tiến nhỏ không xứng đáng với cái giá phải trả.
 Đã đọc đến trang 79
 ```
 Phụ thuộc bắc cầu (Transitive Dependencies)
+
+# Main 15:
+## Tránh “Dependency Hell”
+- Bạn chắc chắn sẽ vấp phải dependency hell. Phụ thuộc (dependencies) là không thể tránh khỏi, nhưng mỗi dependency mới đều đi kèm với một cái giá. Hãy tự hỏi bản thân: giá trị của dependency đó có lớn hơn chi phí mà nó mang lại hay không?
+- Bạn có thực sự cần chức năng đó không?
+- Dependency đó được duy trì (maintain) tốt đến mức nào?
+- Nếu có vấn đề, bạn (hoặc team) có dễ dàng sửa được dependency đó không?
+- Dependency đó trưởng thành (mature) đến mức nào?
+- Nó có thường xuyên giới thiệu các thay đổi không tương thích ngược không?
+- Bạn, team của bạn, và tổ chức của bạn hiểu dependency đó đến đâu?
+- Việc tự viết code thay thế có dễ không?
+- Code đó có giấy phép (license) ra sao?
+- Tỷ lệ code bạn thực sự sử dụng so với phần code thừa trong dependency là bao nhiêu?
+- *Khi bạn quyết định thêm dependency, hãy tuân theo những best practice trên.*
