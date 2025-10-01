@@ -131,3 +131,5 @@ Phụ thuộc bắc cầu (Transitive Dependencies)
 - Code đó có giấy phép (license) ra sao?
 - Tỷ lệ code bạn thực sự sử dụng so với phần code thừa trong dependency là bao nhiêu?
 - *Khi bạn quyết định thêm dependency, hãy tuân theo những best practice trên.*
+# Main 15:
+-
