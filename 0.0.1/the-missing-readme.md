@@ -131,5 +131,18 @@ Phụ thuộc bắc cầu (Transitive Dependencies)
 - Code đó có giấy phép (license) ra sao?
 - Tỷ lệ code bạn thực sự sử dụng so với phần code thừa trong dependency là bao nhiêu?
 - *Khi bạn quyết định thêm dependency, hãy tuân theo những best practice trên.*
-# Main 15:
--
+# Main 16:
+## Kiểm thử
+- Việc viết, chạy và sửa lỗi test đôi khi có cảm giác như là việc làm thừa. Thực tế, test rất dễ biến thành việc làm thừa. Những test tệ hại sẽ tạo thêm gánh nặng cho lập trình viên mà không mang lại giá trị, thậm chí còn làm tăng sự bất ổn định của bộ test. Chương này sẽ dạy bạn cách kiểm thử hiệu quả. Chúng ta sẽ bàn về mục đích của test, các loại test khác nhau, các công cụ test khác nhau, cách kiểm thử có trách nhiệm, và cách xử lý tính không xác định (nondeterminism) trong test.
+
+## Nhiều công dụng của test
+
+- Hầu hết lập trình viên đều biết chức năng cơ bản của test: kiểm tra xem code có hoạt động không. Nhưng test còn có nhiều mục đích khác. Chúng bảo vệ code trước những thay đổi trong tương lai có thể vô tình làm thay đổi hành vi, khuyến khích viết code sạch, buộc lập trình viên phải sử dụng chính API của mình, ghi lại cách các thành phần nên được tương tác, và đóng vai trò như một sân chơi để thử nghiệm.
+
+- Quan trọng nhất, test xác minh rằng phần mềm hoạt động đúng như mong đợi. Hành vi khó đoán sẽ gây rắc rối cho người dùng, lập trình viên và cả đội vận hành. Ban đầu, test cho thấy code hoạt động đúng như đặc tả. Sau đó, test được giữ lại để bảo vệ hành vi hiện có trước những thay đổi mới. Khi một test cũ bị fail, cần phải đưa ra quyết định: lập trình viên có thật sự muốn thay đổi hành vi, hay vừa tạo ra một bug?
+
+- Việc viết test cũng buộc lập trình viên phải suy nghĩ về giao diện (interface) và cách cài đặt (implementation) của chương trình. Thông thường, lập trình viên lần đầu tương tác với code chính là trong test. Code mới thường có nhiều góc cạnh thô ráp; test sẽ làm lộ ra những thiết kế giao diện vụng về để có thể chỉnh sửa sớm. Test cũng làm lộ ra những cài đặt lộn xộn. Code spaghetti – code có quá nhiều phụ thuộc – sẽ rất khó để test. Viết test buộc lập trình viên phải tách bạch trách nhiệm rõ ràng và giảm sự phụ thuộc chặt chẽ.
+
+- Ảnh hưởng phụ trong việc giữ code sạch từ test mạnh mẽ đến mức phát triển hướng kiểm thử (TDD) đã trở nên phổ biến. TDD là việc viết test trước khi viết code. Ban đầu test sẽ fail, rồi sau đó viết code để chúng pass. TDD buộc lập trình viên phải suy nghĩ về hành vi, thiết kế giao diện, và cách tích hợp trước khi "cày" ra một đống code.
+
+- Test cũng đóng vai trò như một dạng tài liệu, minh họa cách code nên được sử dụng. Chúng là nơi đầu tiên mà một lập trình viên có kinh nghiệm sẽ tìm đến để hiểu một codebase mới. Bộ test cũng là một sân chơi tuyệt vời. Lập trình viên có thể chạy test cùng với debugger để bước qua code. Khi bug được phát hiện hoặc có thắc mắc về hành vi, có thể viết thêm test để hiểu rõ hơn.
