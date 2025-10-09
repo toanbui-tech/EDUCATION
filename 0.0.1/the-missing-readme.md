@@ -148,4 +148,6 @@ Phụ thuộc bắc cầu (Transitive Dependencies)
 - Test cũng đóng vai trò như một dạng tài liệu, minh họa cách code nên được sử dụng. Chúng là nơi đầu tiên mà một lập trình viên có kinh nghiệm sẽ tìm đến để hiểu một codebase mới. Bộ test cũng là một sân chơi tuyệt vời. Lập trình viên có thể chạy test cùng với debugger để bước qua code. Khi bug được phát hiện hoặc có thắc mắc về hành vi, có thể viết thêm test để hiểu rõ hơn.
 # Main 17:
 - Đã đọc hết trang 90
-
+# Main 18:
+- Đã đọc hết trang 95
+*Write clean test*
