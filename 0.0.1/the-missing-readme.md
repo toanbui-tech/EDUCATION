@@ -151,3 +151,6 @@ Phụ thuộc bắc cầu (Transitive Dependencies)
 # Main 18:
 - Đã đọc hết trang 95
 *Write clean test*
+# Main 19:
+- DELIVERING SOFTWARE
+- Trang 116
